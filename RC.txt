@@ -1,0 +1,48 @@
+
+## PM Report
+------DCC-------------
+accebrsma01
+99- /tmp 
+
+------RC----------
+Error
+RCAPAMETHYST - net.ipv4.conf.all.accept_source_route` is not a valid sysctl key /https://access.redhat.com/solutions/53031
+rcvhhrmsdbp1- Kernel : oracle is using the deprecated raw device#012 will be removed in Linux 5.14. https://access.redhat.com/solutions/4890451
+ilinkrcweb1- Redhat 6
+ilinkrcweb2 - Redhat6
+RCAPAMETHYST - Redhat6
+RCAPFINS -Redhat6
+rcebrsma04 -Redhat6
+rcebrsma05 -Redhat6
+rcebrsma06 -Redhat6
+rcebrsma07 -Redhat6
+rcebrsma08 -Redhat6
+rcebrsma09 -Redhat6
+rcebrsma10 -Redhat6
+
+Housekeeping
+rcebrsma03
+rcvxansibletp01
+RCREUTERS2
+GATEPOSTMANTEST
+RCGATEPOSTMANTEST
+RCVHISSDMTP1
+RCVXWESPIMS02
+RCVHFINSDBT1
+RCVMBOADBP01
+RCVXEPDB02
+RCVXEPDB16
+RCVHHRMSDBPOLD
+rcvxocpbap01
+HQVMPROXYPKI1
+RCVHEDLPDBP1
+RCVXEPDB01
+RCVHSTATDB
+rcvxrimmp2
+RCWEBPOSTMAN1
+RCVMBOADBP03
+rcvxrimmp2
+RCVMBOADBP02
+RCVXWAPPIMS04
+RCVMPROXYPKI
+RCVXAPFIRSTP1
