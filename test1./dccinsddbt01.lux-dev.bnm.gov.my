@@ -1,0 +1,115 @@
+
+dccinsddbt01.lux-dev.bnm.gov.my
+em1 p5p2 p5p4 bond0:192.168.11.44/21 10.90.30.69/24
+3.10.0-1160.76.1.el7.x86_64
+ 17:36:57 up 16:34,  1 user,  load average: 0.27, 0.23, 0.18
+kernel-3.10.0-1160.76.1.el7.x86_64            Thu 11 Aug 2022 10:56:34 PM +08
+kernel-3.10.0-1160.66.1.el7.x86_64            Fri 17 Jun 2022 12:10:31 AM +08
+kernel-3.10.0-1127.13.1.el7.x86_64            Sat 11 Jul 2020 12:06:45 PM +08
+Red Hat Enterprise Linux Server release 7.9 (Maipo)
+Intel(R) Xeon(R) CPU E5-2637 v4 @ 3.50GHz
+64165 MB
+4 of 11
+
+CPU usage is below the threshold (Which is 80%)
+Memory Usage is above the threshold (Which is 80%)
+
+Memory free 
+Used	Avail	Use%	Mounted
+64K	32G	1%	/dev
+645M	31G	3%	/dev/shm
+36M	32G	1%	/run
+0	32G	0%	/sys/fs/cgroup
+243M	1.8G	12%	/
+4.3G	2.8G	61%	/usr
+354M	152M	70%	/boot
+11M	502M	2%	/boot/efi
+8.2G	7.9G	52%	/home
+1.7G	3.8G	31%	/var
+33M	8.0G	1%	/tmp
+12G	4.0G	74%	/opt
+707M	9.4G	7%	/var/log
+60G	41G	60%	/u01
+69M	10G	1%	/var/log/audit
+109G	91G	55%	/backup
+0	6.3G	0%	/run/user/54321
+12K	6.3G	1%	/run/user/42
+0	6.3G	0%	/run/user/54323
+
+16:34, 1
+
+Thu 15 Sep 2022 05:36:58 PM
+Thu 15 Sep 2022 05:36:59 PM +08  -0.610491 seconds
+
+
+Linux 3.10.0-1160.76.1.el7.x86_64 (dccinsddbt01.lux-dev.bnm.gov.my) 	09/15/2022 	_x86_64_	(16 CPU)
+
+05:36:59 PM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+05:37:01 PM     all      0.19      0.00      0.22      0.00      0.00     99.59
+05:37:03 PM     all      0.19      0.00      0.19      0.03      0.00     99.59
+05:37:05 PM     all      0.16      0.00      0.22      0.00      0.00     99.62
+05:37:07 PM     all      0.16      0.00      0.22      0.00      0.00     99.62
+05:37:09 PM     all      0.16      0.00      0.16      0.03      0.00     99.65
+Average:        all      0.17      0.00      0.20      0.01      0.00     99.62
+Average:        all      0.59      0.00      0.34      0.01      0.00     99.06
+Average:        all      4.14      0.00      0.49      0.01      0.00     95.35
+
+              total        used        free      shared  buff/cache   available
+Mem:          64165        7893       35260       14606       21010       41397
+Swap:         16383           0       16383
+Total:        80549        7893       51644
+
+
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+devtmpfs                            32G   64K   32G   1% /dev
+tmpfs                               32G  645M   31G   3% /dev/shm
+tmpfs                               32G   36M   32G   1% /run
+tmpfs                               32G     0   32G   0% /sys/fs/cgroup
+/dev/mapper/vg00-lv_root           2.0G  243M  1.8G  12% /
+/dev/mapper/vg00-lv_usr            7.0G  4.3G  2.8G  61% /usr
+/dev/sda2                          506M  354M  152M  70% /boot
+/dev/sda1                          512M   11M  502M   2% /boot/efi
+/dev/mapper/vg00-lv_home            16G  8.2G  7.9G  52% /home
+/dev/mapper/vg00-lv_var            5.5G  1.7G  3.8G  31% /var
+/dev/mapper/vg00-lv_tmp            8.0G   33M  8.0G   1% /tmp
+/dev/mapper/vg00-lv_opt             15G   12G  4.0G  74% /opt
+/dev/mapper/vg00-lv_var_log         10G  707M  9.4G   7% /var/log
+/dev/mapper/vg00-lv_u01            100G   60G   41G  60% /u01
+/dev/mapper/vg00-lv_var_log_audit   10G   69M   10G   1% /var/log/audit
+/dev/mapper/vg01-lv_backup         200G  109G   91G  55% /backup
+tmpfs                              6.3G     0  6.3G   0% /run/user/54321
+tmpfs                              6.3G   12K  6.3G   1% /run/user/42
+tmpfs                              6.3G     0  6.3G   0% /run/user/54323
+
+
+Jarvis         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+acfssihamount  	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+afd            	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+gcstartup      	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+lockgcstartup  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_listener  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_passive   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+netconsole     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+network        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ohasd          	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+rhnsd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+unlockgcstartup	0:off	1:off	2:off	3:off	4:on	5:off	6:off
+
+xinetd based services:
+	chargen-dgram: 	off
+	chargen-stream:	off
+	daytime-dgram: 	off
+	daytime-stream:	off
+	discard-dgram: 	off
+	discard-stream:	off
+	echo-dgram:    	off
+	echo-stream:   	off
+	nrpe:          	on
+	nsca:          	on
+	tcpmux-server: 	off
+	time-dgram:    	off
+	time-stream:   	off
+
+

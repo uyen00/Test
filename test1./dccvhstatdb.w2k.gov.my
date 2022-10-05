@@ -1,0 +1,120 @@
+
+dccvhstatdb.w2k.gov.my
+eth0 eth1 virbr0:10.30.9.21/16 192.168.13.198/21 192.168.122.1/24
+3.10.0-1160.76.1.el7.x86_64
+ 14:57:12 up 26 days, 13:34,  2 users,  load average: 3.95, 2.70, 2.08
+kernel-3.10.0-1160.76.1.el7.x86_64            Fri 26 Aug 2022 07:34:45 PM +08
+kernel-3.10.0-1160.71.1.el7.x86_64            Fri 29 Jul 2022 10:49:42 PM +08
+kernel-3.10.0-1160.66.1.el7.x86_64            Sat 02 Jul 2022 12:03:59 AM +08
+Red Hat Enterprise Linux Server release 7.9 (Maipo)
+Intel(R) Xeon(R) Silver 4208 CPU @ 2.10GHz
+48327 MB
+3 of 2
+
+CPU usage is below the threshold (Which is 80%)
+Memory Usage is above the threshold (Which is 80%)
+
+Memory free 
+Used	Avail	Use%	Mounted
+0	17G	0%	/dev
+647M	16G	4%	/dev/shm
+1.7G	15G	11%	/run
+0	17G	0%	/sys/fs/cgroup
+132M	1.9G	7%	/
+4.5G	3.6G	56%	/usr
+282M	225M	56%	/boot
+168G	833G	17%	/backup
+88G	13G	88%	/u01
+4.7G	5.4G	47%	/home
+2.2G	4.1G	35%	/var
+7.2G	7.9G	48%	/opt
+1.6G	2.5G	39%	/var/log
+911M	13G	7%	/var/log/audit
+33M	982M	4%	/appl
+1.8G	3.3G	36%	/tmp
+12K	4.8G	1%	/run/user/42
+0	4.8G	0%	/run/user/54322
+0	4.8G	0%	/run/user/54331
+0	4.8G	0%	/run/user/54321
+0	4.8G	0%	/run/user/54330
+
+26 days,
+
+Thu 22 Sep 2022 02:57:14 PM
+Thu 22 Sep 2022 02:57:09 PM +08  -0.332313 seconds
+
+
+Linux 3.10.0-1160.76.1.el7.x86_64 (dccvhstatdb.w2k.gov.my) 	09/22/2022 	_x86_64_	(3 CPU)
+
+02:57:15 PM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+02:57:17 PM     all     34.58      0.00      3.73      0.68      0.00     61.02
+02:57:19 PM     all     33.16      0.00      2.89      0.34      0.00     63.61
+02:57:21 PM     all     34.07      0.00      4.92      0.51      0.00     60.51
+02:57:23 PM     all     32.20      0.00      3.39      0.17      0.00     64.24
+02:57:25 PM     all     32.99      0.00      3.38      0.51      0.00     63.11
+Average:        all     33.40      0.00      3.66      0.44      0.00     62.50
+Average:        all     35.25      0.00      6.71      2.40      0.00     55.64
+
+              total        used        free      shared  buff/cache   available
+Mem:          48327       21134        4828        2502       22365       24364
+Swap:         32766           0       32766
+Total:        81094       21134       37595
+
+
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+devtmpfs                            17G     0   17G   0% /dev
+tmpfs                               17G  647M   16G   4% /dev/shm
+tmpfs                               17G  1.7G   15G  11% /run
+tmpfs                               17G     0   17G   0% /sys/fs/cgroup
+/dev/mapper/vg00-lv_root           2.0G  132M  1.9G   7% /
+/dev/mapper/vg00-lv_usr            8.0G  4.5G  3.6G  56% /usr
+/dev/sda1                          506M  282M  225M  56% /boot
+/dev/mapper/vg02-lv_backup        1000G  168G  833G  17% /backup
+/dev/mapper/vg01-lv_u01            100G   88G   13G  88% /u01
+/dev/mapper/vg00-lv_home            10G  4.7G  5.4G  47% /home
+/dev/mapper/vg00-lv_var            6.2G  2.2G  4.1G  35% /var
+/dev/mapper/vg00-lv_opt             15G  7.2G  7.9G  48% /opt
+/dev/mapper/vg00-lv_var_log        4.0G  1.6G  2.5G  39% /var/log
+/dev/mapper/vg00-lv_var_log_audit   13G  911M   13G   7% /var/log/audit
+/dev/mapper/vg00-lv_appl          1014M   33M  982M   4% /appl
+/dev/mapper/vg00-lv_tmp            5.0G  1.8G  3.3G  36% /tmp
+tmpfs                              4.8G   12K  4.8G   1% /run/user/42
+tmpfs                              4.8G     0  4.8G   0% /run/user/54322
+tmpfs                              4.8G     0  4.8G   0% /run/user/54331
+tmpfs                              4.8G     0  4.8G   0% /run/user/54321
+tmpfs                              4.8G     0  4.8G   0% /run/user/54330
+
+
+Galaxy         	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+Jarvis         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+afd            	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+gcstartup      	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+lockgcstartup  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_listener  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_passive   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+netconsole     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+network        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ngt_guest_agent	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ngt_self_service_restore	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ohasd          	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+rhnsd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+unlockgcstartup	0:off	1:off	2:off	3:off	4:on	5:off	6:off
+
+xinetd based services:
+	chargen-dgram: 	off
+	chargen-stream:	off
+	daytime-dgram: 	off
+	daytime-stream:	off
+	discard-dgram: 	off
+	discard-stream:	off
+	echo-dgram:    	off
+	echo-stream:   	off
+	nrpe:          	on
+	nsca:          	on
+	tcpmux-server: 	off
+	time-dgram:    	off
+	time-stream:   	off
+
+

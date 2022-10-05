@@ -1,0 +1,101 @@
+
+dccreuters1
+eno1 eno49 eno52 bond01:192.168.11.127/21 172.22.0.26/24
+3.10.0-1160.76.1.el7.x86_64
+ 11:00:01 up 20 days, 18:50,  1 user,  load average: 0.05, 0.07, 0.05
+kernel-3.10.0-1160.76.1.el7.x86_64            Sat 20 Aug 2022 06:06:55 AM +08
+kernel-3.10.0-1160.62.1.el7.x86_64            Sat 23 Apr 2022 02:20:17 PM +08
+kernel-3.10.0-1160.59.1.el7.x86_64            Sat 19 Mar 2022 12:43:59 PM +08
+Red Hat Enterprise Linux Server release 7.9 (Maipo)
+Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz
+31875 MB
+4 of 9
+
+CPU usage is below the threshold (Which is 80%)
+Memory Usage is above the threshold (Which is 80%)
+
+Memory free 
+Used	Avail	Use%	Mounted
+0	16G	0%	/dev
+8.0K	16G	1%	/dev/shm
+154M	16G	1%	/run
+0	16G	0%	/sys/fs/cgroup
+243M	1.8G	12%	/
+5.1G	929M	85%	/usr
+264M	240M	53%	/boot
+11M	502M	2%	/boot/efi
+33M	983M	4%	/appl
+56M	4.0G	2%	/tmp
+12G	24G	33%	/opt
+503M	1.6G	25%	/home
+3.4G	4.7G	43%	/var
+405M	4.6G	8%	/var/log
+72M	944M	8%	/var/log/audit
+0	3.2G	0%	/run/user/1003
+
+20 days,
+
+Sat 10 Sep 2022 11:00:03 AM
+Sat 10 Sep 2022 11:00:09 AM +08  -0.954620 seconds
+
+
+Linux 3.10.0-1160.76.1.el7.x86_64 (dccreuters1) 	09/10/2022 	_x86_64_	(40 CPU)
+
+11:00:04 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+11:00:06 AM     all      0.01      0.00      0.01      0.01      0.00     99.96
+11:00:08 AM     all      0.00      0.00      0.01      0.00      0.00     99.99
+11:00:10 AM     all      0.04      0.00      0.01      0.00      0.00     99.95
+11:00:12 AM     all      0.01      0.00      0.01      0.00      0.00     99.97
+11:00:14 AM     all      0.00      0.00      0.01      0.00      0.00     99.99
+Average:        all      0.01      0.00      0.01      0.00      0.00     99.97
+Average:        all      0.11      0.00      0.06      0.00      0.00     99.82
+
+              total        used        free      shared  buff/cache   available
+Mem:          31875        1942       22226         268        7706       29241
+Swap:             0           0           0
+Total:        31875        1942       22226
+
+
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+devtmpfs                            16G     0   16G   0% /dev
+tmpfs                               16G  8.0K   16G   1% /dev/shm
+tmpfs                               16G  154M   16G   1% /run
+tmpfs                               16G     0   16G   0% /sys/fs/cgroup
+/dev/mapper/vg00-lv_root           2.0G  243M  1.8G  12% /
+/dev/mapper/vg00-lv_usr            6.0G  5.1G  929M  85% /usr
+/dev/sda2                          504M  264M  240M  53% /boot
+/dev/sda1                          512M   11M  502M   2% /boot/efi
+/dev/mapper/vg00-lv_appl          1016M   33M  983M   4% /appl
+/dev/mapper/vg00-lv_tmp            4.0G   56M  4.0G   2% /tmp
+/dev/mapper/vg00-lv_opt             35G   12G   24G  33% /opt
+/dev/mapper/vg00-lv_home           2.0G  503M  1.6G  25% /home
+/dev/mapper/vg00-lv_var            8.0G  3.4G  4.7G  43% /var
+/dev/mapper/vg00-lv_var_log        5.0G  405M  4.6G   8% /var/log
+/dev/mapper/vg00-lv_var_log_audit 1016M   72M  944M   8% /var/log/audit
+tmpfs                              3.2G     0  3.2G   0% /run/user/1003
+
+
+Galaxy         	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+Jarvis         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_listener  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_passive   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+netconsole     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+network        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+rhnsd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+
+xinetd based services:
+	chargen-dgram: 	off
+	chargen-stream:	off
+	daytime-dgram: 	off
+	daytime-stream:	off
+	discard-dgram: 	off
+	discard-stream:	off
+	echo-dgram:    	off
+	echo-stream:   	off
+	tcpmux-server: 	off
+	time-dgram:    	off
+	time-stream:   	off
+
+

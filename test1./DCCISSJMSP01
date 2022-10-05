@@ -1,0 +1,107 @@
+
+DCCISSJMSP01
+eno1 eno2 eno3 eno4 ens8f0 ens8f1 ens6f0 ens6f1 ens7f0 ens7f1 usb0 virbr0:10.20.9.249/16 192.168.13.156/21 169.254.95.119/24 192.168.122.1/24
+3.10.0-1160.76.1.el7.x86_64
+ 14:54:08 up 26 days, 13:29,  1 user,  load average: 0.50, 0.15, 0.09
+kernel-3.10.0-1160.76.1.el7.x86_64            Fri 26 Aug 2022 07:34:41 PM +08
+kernel-3.10.0-1160.71.1.el7.x86_64            Sat 06 Aug 2022 05:27:49 AM +08
+kernel-3.10.0-1160.66.1.el7.x86_64            Sat 02 Jul 2022 12:02:14 AM +08
+Red Hat Enterprise Linux Server release 7.9 (Maipo)
+Intel(R) Xeon(R) CPU E5-2640 v3 @ 2.60GHz
+63871 MB
+12 of 11
+
+CPU usage is below the threshold (Which is 80%)
+Memory Usage is above the threshold (Which is 80%)
+
+Memory free 
+Used	Avail	Use%	Mounted
+0	32G	0%	/dev
+8.0K	32G	1%	/dev/shm
+571M	31G	2%	/run
+0	32G	0%	/sys/fs/cgroup
+3.9G	5.9G	40%	/
+4.5G	1.4G	77%	/usr
+223M	272M	45%	/boot
+9.9M	190M	5%	/boot/efi
+136M	1.9G	7%	/home
+3.2G	4.5G	42%	/var
+33M	2.0G	2%	/tmp
+2.4G	1.7G	59%	/opt
+478M	11G	5%	/appl
+867M	2.2G	29%	/var/log
+72M	923M	8%	/var/log/audit
+1.2G	18G	7%	/activemq/cluster/data/kahadb
+0	6.3G	0%	/run/user/1000
+0	6.3G	0%	/run/user/1018
+
+26 days,
+
+Thu 22 Sep 2022 02:54:09 PM
+Thu 22 Sep 2022 02:54:10 PM +08  -0.334058 seconds
+
+
+Linux 3.10.0-1160.76.1.el7.x86_64 (DCCISSJMSP01) 	09/22/2022 	_x86_64_	(32 CPU)
+
+02:54:10 PM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+02:54:12 PM     all      0.03      0.00      0.02      0.00      0.00     99.95
+02:54:14 PM     all      0.17      0.00      0.08      0.00      0.00     99.75
+02:54:16 PM     all      0.05      0.00      0.05      0.02      0.00     99.89
+02:54:18 PM     all      0.02      0.00      0.02      0.00      0.00     99.97
+02:54:20 PM     all      0.03      0.00      0.00      0.00      0.00     99.97
+Average:        all      0.06      0.00      0.03      0.00      0.00     99.91
+Average:        all      0.07      0.00      0.05      0.00      0.00     99.87
+
+              total        used        free      shared  buff/cache   available
+Mem:          63871        3064       57099         685        3707       59629
+Swap:          4067           0        4067
+Total:        67939        3064       61167
+
+
+
+
+Filesystem                       Size  Used Avail Use% Mounted on
+devtmpfs                          32G     0   32G   0% /dev
+tmpfs                             32G  8.0K   32G   1% /dev/shm
+tmpfs                             32G  571M   31G   2% /run
+tmpfs                             32G     0   32G   0% /sys/fs/cgroup
+/dev/mapper/rhel-root            9.8G  3.9G  5.9G  40% /
+/dev/mapper/rhel-usr             5.9G  4.5G  1.4G  77% /usr
+/dev/sda2                        494M  223M  272M  45% /boot
+/dev/sda1                        200M  9.9M  190M   5% /boot/efi
+/dev/mapper/rhel-home            2.0G  136M  1.9G   7% /home
+/dev/mapper/rhel-var             7.6G  3.2G  4.5G  42% /var
+/dev/mapper/rhel-tmp             2.0G   33M  2.0G   2% /tmp
+/dev/mapper/rhel-opt             4.0G  2.4G  1.7G  59% /opt
+/dev/mapper/rhel-appl             11G  478M   11G   5% /appl
+/dev/mapper/rhel-var_log         3.0G  867M  2.2G  29% /var/log
+/dev/mapper/rhel-var_log_audit   994M   72M  923M   8% /var/log/audit
+/dev/mapper/VolGroup01-activemq   20G  1.2G   18G   7% /activemq/cluster/data/kahadb
+tmpfs                            6.3G     0  6.3G   0% /run/user/1000
+tmpfs                            6.3G     0  6.3G   0% /run/user/1018
+
+
+Galaxy         	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+Jarvis         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_listener  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_passive   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+netconsole     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+network        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+rhnsd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+
+xinetd based services:
+	chargen-dgram: 	off
+	chargen-stream:	off
+	daytime-dgram: 	off
+	daytime-stream:	off
+	discard-dgram: 	off
+	discard-stream:	off
+	echo-dgram:    	off
+	echo-stream:   	off
+	nrpe:          	on
+	nsca:          	on
+	tcpmux-server: 	off
+	time-dgram:    	off
+	time-stream:   	off
+
+
