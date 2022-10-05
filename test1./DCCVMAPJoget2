@@ -1,0 +1,196 @@
+
+DCCVMAPJoget2
+eth1 eth2:10.20.9.31/16 192.168.12.153/21
+2.6.32-754.48.1.el6.x86_64
+ 15:47:17 up 21 days, 14:29,  1 user,  load average: 0.10, 0.06, 0.01
+kernel-2.6.32-754.48.1.el6.x86_64             Fri 19 Aug 2022 07:16:41 PM MYT
+kernel-2.6.32-754.47.1.el6.x86_64             Sat 21 May 2022 02:28:23 AM MYT
+kernel-2.6.32-754.43.1.el6.x86_64             Sat 19 Mar 2022 01:28:40 AM MYT
+Red Hat Enterprise Linux Server release 6.10 (Santiago)
+Intel(R) Xeon(R) CPU E7-4850 v4 @ 2.10GHz
+16080 MB
+2 of 3
+
+CPU usage is below the threshold (Which is 80%)
+Memory Usage is above the threshold (Which is 80%)
+
+Memory free 75
+Used	Avail	Use%	Mounted
+3.6G	23%	/	
+80K	7.8G	1%	/dev/shm
+1.9G	1%	/appl	
+88M	376M	19%	/boot
+4.3G	7%	/home	
+91G	4%	/opt	
+4.6G	1%	/tmp	
+1.3G	73%	/usr	
+4.4G	13%	/var	
+2.5G	12%	/var/log	
+2.8G	2%	/var/log/audit	
+
+21 days,
+ntpd (pid  3394) is running...
+ntpd           	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+
+Sat 10 Sep 2022 03:47:18 PM ZONE="Asia/Kuala Lumpur"
+Sat 10 Sep 2022 03:47:19 PM MYT  -0.162749 seconds
+ntpd (pid  3394) is running...
+server 10.10.10.75
+
+
+Linux 2.6.32-754.48.1.el6.x86_64 (DCCVMAPJoget2) 	09/10/2022 	_x86_64_	(4 CPU)
+
+03:47:19 PM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+03:47:21 PM     all      0.25      0.00      0.25      0.00      0.00     99.50
+03:47:23 PM     all      0.13      0.00      0.50      0.00      0.00     99.37
+03:47:25 PM     all      0.50      0.00      0.25      0.13      0.00     99.12
+03:47:27 PM     all      0.37      0.00      0.75      0.00      0.00     98.88
+03:47:29 PM     all      0.88      0.00      0.25      0.00      0.00     98.87
+Average:        all      0.43      0.00      0.40      0.03      0.00     99.15
+Average:        all      1.38      0.02      1.16      0.02      0.00     97.42
+
+             total       used       free     shared    buffers     cached
+Mem:         16080       9044       7036          1        881       4224
+-/+ buffers/cache:       3938      12141
+Swap:        16383          0      16383
+Total:       32464       9044      23420
+
+
+Linux 2.6.32-754.48.1.el6.x86_64 (DCCVMAPJoget2) 	09/10/2022 	_x86_64_	(4 CPU)
+
+09/10/2022 03:47:29 PM
+Device:            tps    MB_read/s    MB_wrtn/s    MB_read    MB_wrtn
+sda               2.50         0.00         0.02       6006      38943
+vg00_VolLog00-LogVol00     0.76         0.00         0.00        504       5405
+vg00_VolLog00-LogVol09     0.00         0.00         0.00          4          0
+vg00_VolLog00-LogVol05     0.33         0.00         0.00       1019       2240
+vg00_VolLog00-LogVol04     2.43         0.00         0.01       2301      17570
+vg00_VolLog00-LogVol07     0.51         0.00         0.00         30       3715
+vg00_VolLog00-LogVol06     0.00         0.00         0.00          3          0
+vg00_VolLog00-LogVol01     0.39         0.00         0.00        103       2835
+vg00_VolLog00-LogVol03     0.85         0.00         0.00       1989       5421
+vg00_VolLog00-LogVol02     0.19         0.00         0.00          3       1394
+vg00_VolLog00-LogVol08     0.05         0.00         0.00          6        359
+
+Filesystem:               rMB_nor/s    wMB_nor/s    rMB_dir/s    wMB_dir/s    rMB_svr/s    wMB_svr/s     ops/s    rops/s    wops/s
+
+
+
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vg00_VolLog00-LogVol00
+                      4.8G  1.1G  3.6G  23% /
+tmpfs                 7.8G   80K  7.8G   1% /dev/shm
+/dev/mapper/vg00_VolLog00-LogVol06
+                      2.0G  3.0M  1.9G   1% /appl
+/dev/sda1             488M   88M  376M  19% /boot
+/dev/mapper/vg00_VolLog00-LogVol01
+                      4.8G  283M  4.3G   7% /home
+/dev/mapper/vg00_VolLog00-LogVol05
+                       99G  3.4G   91G   4% /opt
+/dev/mapper/vg00_VolLog00-LogVol02
+                      4.8G   11M  4.6G   1% /tmp
+/dev/mapper/vg00_VolLog00-LogVol03
+                      4.8G  3.3G  1.3G  73% /usr
+/dev/mapper/vg00_VolLog00-LogVol04
+                      5.3G  660M  4.4G  13% /var
+/dev/mapper/vg00_VolLog00-LogVol07
+                      2.9G  333M  2.5G  12% /var/log
+/dev/mapper/vg00_VolLog00-LogVol08
+                      2.9G   34M  2.8G   2% /var/log/audit
+
+
+Galaxy         	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+Jarvis         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+NetworkManager 	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+abrt-ccpp      	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+abrtd          	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+acpid          	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+atd            	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+auditd         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+autofs         	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+blk-availability	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+bluetooth      	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+cba8           	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+certmonger     	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+cgconfig       	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+cgred          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+cpuspeed       	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+crond          	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+cups           	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+dnsmasq        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+ds_agent       	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+firstboot      	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+goferd         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+haldaemon      	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+htcacheclean   	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+httpd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+ip6tables      	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+iptables       	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+irqbalance     	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+jexec          	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+kdump          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+lvm2-monitor   	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+mdmonitor      	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+messagebus     	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_listener  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_passive   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+netconsole     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+netfs          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+network        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+nfs            	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+nfslock        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+nntgen7agent   	0:off	1:off	2:on	3:on	4:off	5:on	6:off
+ntpd           	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ntpdate        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+oddjobd        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+portreserve    	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+postfix        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+pppoe-server   	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+psacct         	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+puppet         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+pxp-agent      	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+quota_nld      	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rdisc          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+restorecond    	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rhnsd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rhsmcertd      	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+rngd           	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rpcbind        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rpcgssd        	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+rpcsvcgssd     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rsyslog        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+saslauthd      	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+smartd         	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+snmpd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+snmptrapd      	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+spice-vdagentd 	0:off	1:off	2:off	3:off	4:off	5:on	6:off
+sshd           	0:off	1:on	2:on	3:on	4:on	5:on	6:on
+sssd           	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+sysstat        	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+tomcat         	0:off	1:off	2:on	3:on	4:on	5:off	6:off
+udev-post      	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+wdaemon        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+winbind        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+wpa_supplicant 	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+xagt           	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+xinetd         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ypbind         	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+
+xinetd based services:
+	chargen-dgram: 	off
+	chargen-stream:	off
+	daytime-dgram: 	off
+	daytime-stream:	off
+	discard-dgram: 	off
+	discard-stream:	off
+	echo-dgram:    	off
+	echo-stream:   	off
+	nrpe:          	on
+	nsca:          	on
+	pds2:          	on
+	rsync:         	off
+	tcpmux-server: 	off
+	time-dgram:    	off
+	time-stream:   	off
+
+

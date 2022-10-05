@@ -1,0 +1,106 @@
+
+dccvmstg2.w2k.bnm.gov.my
+ens32:10.20.1.218/16
+3.10.0-1160.76.1.el7.x86_64
+ 16:21:10 up 6 days, 17:23,  1 user,  load average: 0.34, 0.11, 0.10
+kernel-3.10.0-1160.76.1.el7.x86_64            Sat 20 Aug 2022 10:16:55 PM +08
+kernel-3.10.0-1160.71.1.el7.x86_64            Sat 30 Jul 2022 06:45:03 PM +08
+kernel-3.10.0-1160.66.1.el7.x86_64            Sun 03 Jul 2022 01:32:41 AM +08
+Red Hat Enterprise Linux Server release 7.9 (Maipo)
+Intel(R) Xeon(R) CPU E7-4850 v4 @ 2.10GHz
+32007 MB
+1 of 1
+
+CPU usage is below the threshold (Which is 80%)
+Memory Usage is above the threshold (Which is 80%)
+
+Memory free 
+Used	Avail	Use%	Mounted
+0	16G	0%	/dev
+8.0K	16G	1%	/dev/shm
+194M	16G	2%	/run
+0	16G	0%	/sys/fs/cgroup
+100M	1.9G	5%	/
+4.5G	566M	89%	/usr
+36M	20G	1%	/appl
+2.1G	2.0G	53%	/home
+94M	50G	1%	/tmp
+43G	58G	43%	/opt
+33M	50G	1%	/tmp/gatewaydb_backup
+272M	238M	54%	/boot
+3.0G	13G	20%	/var
+724M	1.3G	36%	/var/log
+71M	944M	7%	/var/log/audit
+12K	3.2G	1%	/run/user/42
+0	3.2G	0%	/run/user/1005
+
+6 days,
+
+Sat 10 Sep 2022 04:21:13 PM
+Sat 10 Sep 2022 04:21:14 PM +08  -0.893425 seconds
+
+
+Linux 3.10.0-1160.76.1.el7.x86_64 (dccvmstg2.w2k.bnm.gov.my) 	09/10/2022 	_x86_64_	(32 CPU)
+
+04:21:14 PM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:21:16 PM     all      0.17      0.00      0.13      0.00      0.00     99.70
+04:21:18 PM     all      0.16      0.00      0.13      0.00      0.00     99.72
+04:21:20 PM     all      0.14      0.00      0.11      0.00      0.00     99.75
+04:21:22 PM     all      0.16      0.00      0.19      0.00      0.00     99.66
+04:21:24 PM     all      0.28      0.00      0.13      0.00      0.00     99.59
+Average:        all      0.18      0.00      0.13      0.00      0.00     99.68
+Average:        all      0.43      0.00      0.24      0.01      0.00     99.33
+
+              total        used        free      shared  buff/cache   available
+Mem:          32007        5582       10316         197       16109       25809
+Swap:             0           0           0
+Total:        32007        5582       10316
+
+
+
+
+Filesystem                      Size  Used Avail Use% Mounted on
+devtmpfs                         16G     0   16G   0% /dev
+tmpfs                            16G  8.0K   16G   1% /dev/shm
+tmpfs                            16G  194M   16G   2% /run
+tmpfs                            16G     0   16G   0% /sys/fs/cgroup
+/dev/mapper/vg00-root           2.0G  100M  1.9G   5% /
+/dev/mapper/vg00-usr            5.0G  4.5G  566M  89% /usr
+/dev/mapper/vg00-appl            20G   36M   20G   1% /appl
+/dev/mapper/vg00-home           4.0G  2.1G  2.0G  53% /home
+/dev/mapper/vg00-tmp             50G   94M   50G   1% /tmp
+/dev/mapper/vg00-opt            100G   43G   58G  43% /opt
+/dev/mapper/vg02-lv_mastersam    50G   33M   50G   1% /tmp/gatewaydb_backup
+/dev/sda1                       509M  272M  238M  54% /boot
+/dev/mapper/vg00-var             15G  3.0G   13G  20% /var
+/dev/mapper/vg00-var_log        2.0G  724M  1.3G  36% /var/log
+/dev/mapper/vg00-var_log_audit 1014M   71M  944M   7% /var/log/audit
+tmpfs                           3.2G   12K  3.2G   1% /run/user/42
+tmpfs                           3.2G     0  3.2G   0% /run/user/1005
+
+
+Jarvis         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+guacd          	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_listener  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_passive   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+netconsole     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+network        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+rhnsd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+vmware-tools   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+
+xinetd based services:
+	chargen-dgram: 	off
+	chargen-stream:	off
+	daytime-dgram: 	off
+	daytime-stream:	off
+	discard-dgram: 	off
+	discard-stream:	off
+	echo-dgram:    	off
+	echo-stream:   	off
+	nrpe:          	on
+	nsca:          	on
+	tcpmux-server: 	off
+	time-dgram:    	off
+	time-stream:   	off
+
+

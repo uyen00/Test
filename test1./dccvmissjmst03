@@ -1,0 +1,102 @@
+
+dccvmissjmst03
+ens160 ens192 eno16777728 eno33554968 ens36:10.90.20.153/24 192.168.1.12/28 192.168.9.75/21
+3.10.0-1160.76.1.el7.x86_64
+ 13:32:04 up 33 days, 11:11,  1 user,  load average: 0.79, 0.53, 0.27
+kernel-3.10.0-1160.76.1.el7.x86_64            Fri 19 Aug 2022 09:00:40 PM +08
+kernel-3.10.0-1160.71.1.el7.x86_64            Sat 23 Jul 2022 12:34:14 AM +08
+kernel-3.10.0-1160.66.1.el7.x86_64            Fri 17 Jun 2022 12:17:05 AM +08
+Red Hat Enterprise Linux Server release 7.9 (Maipo)
+Intel(R) Xeon(R) Gold 6246 CPU @ 3.30GHz
+15885 MB
+5 of 4
+
+CPU usage is below the threshold (Which is 80%)
+Memory Usage is above the threshold (Which is 80%)
+
+Memory free 
+Used	Avail	Use%	Mounted
+0	7.8G	0%	/dev
+54M	7.8G	1%	/dev/shm
+660M	7.2G	9%	/run
+0	7.8G	0%	/sys/fs/cgroup
+341M	2.7G	12%	/
+4.2G	1.9G	70%	/usr
+2.0G	1.1G	67%	/opt
+2.3G	7.8G	23%	/var
+228M	11G	3%	/appl
+243M	255M	49%	/boot
+33M	2.0G	2%	/tmp
+674M	343M	67%	/var/log
+2.1G	3.0G	41%	/home
+73M	945M	8%	/var/log/audit
+12K	1.6G	1%	/run/user/42
+0	1.6G	0%	/run/user/1009
+
+33 days,
+
+Thu 22 Sep 2022 01:32:05 PM
+Thu 22 Sep 2022 01:32:06 PM +08  -0.333118 seconds
+
+
+Linux 3.10.0-1160.76.1.el7.x86_64 (dccvmissjmst03) 	09/22/2022 	_x86_64_	(2 CPU)
+
+01:32:06 PM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+01:32:08 PM     all      1.25      0.00      0.50      0.00      0.00     98.25
+01:32:10 PM     all      0.25      0.00      0.25      0.00      0.00     99.50
+01:32:12 PM     all      1.00      0.00      0.50      0.00      0.00     98.50
+01:32:14 PM     all      0.50      0.00      0.25      0.00      0.00     99.25
+01:32:16 PM     all      0.50      0.00      0.25      0.00      0.00     99.25
+Average:        all      0.70      0.00      0.35      0.00      0.00     98.95
+Average:        all      1.76      0.00      0.96      0.01      0.00     97.26
+
+              total        used        free      shared  buff/cache   available
+Mem:          15885        1856        6320         831        7708       12858
+Swap:          4095           0        4095
+Total:        19981        1856       10416
+
+
+
+
+Filesystem                      Size  Used Avail Use% Mounted on
+devtmpfs                        7.8G     0  7.8G   0% /dev
+tmpfs                           7.8G   54M  7.8G   1% /dev/shm
+tmpfs                           7.8G  660M  7.2G   9% /run
+tmpfs                           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/mapper/rhel-root           3.0G  341M  2.7G  12% /
+/dev/mapper/rhel-usr            6.0G  4.2G  1.9G  70% /usr
+/dev/mapper/rhel-opt            3.0G  2.0G  1.1G  67% /opt
+/dev/mapper/rhel-var             10G  2.3G  7.8G  23% /var
+/dev/mapper/rhel-appl            11G  228M   11G   3% /appl
+/dev/sda1                       497M  243M  255M  49% /boot
+/dev/mapper/rhel-tmp            2.0G   33M  2.0G   2% /tmp
+/dev/mapper/rhel-var_log       1017M  674M  343M  67% /var/log
+/dev/mapper/rhel-home           5.0G  2.1G  3.0G  41% /home
+/dev/mapper/rhel-var_log_audit 1017M   73M  945M   8% /var/log/audit
+tmpfs                           1.6G   12K  1.6G   1% /run/user/42
+tmpfs                           1.6G     0  1.6G   0% /run/user/1009
+
+
+Jarvis         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_listener  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_passive   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+netconsole     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+network        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+rhnsd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+
+xinetd based services:
+	chargen-dgram: 	off
+	chargen-stream:	off
+	daytime-dgram: 	off
+	daytime-stream:	off
+	discard-dgram: 	off
+	discard-stream:	off
+	echo-dgram:    	off
+	echo-stream:   	off
+	nrpe:          	on
+	nsca:          	on
+	tcpmux-server: 	off
+	time-dgram:    	off
+	time-stream:   	off
+
+
