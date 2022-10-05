@@ -1,0 +1,110 @@
+
+dcvxapnetbkp1.w2k.bnm.gov.my
+ens192:10.100.0.215/24
+3.10.0-1160.76.1.el7.x86_64
+ 16:48:09 up 26 days, 15:26,  1 user,  load average: 0.68, 0.17, 0.10
+kernel-3.10.0-1160.76.1.el7.x86_64            Fri 26 Aug 2022 07:34:47 PM +08
+kernel-3.10.0-1160.71.1.el7.x86_64            Fri 29 Jul 2022 11:09:28 PM +08
+kernel-3.10.0-1160.66.1.el7.x86_64            Sat 02 Jul 2022 12:02:21 AM +08
+Red Hat Enterprise Linux Server release 7.9 (Maipo)
+Intel(R) Xeon(R) CPU E7- 4870 @ 2.40GHz
+7821 MB
+1 of 1
+
+CPU usage is below the threshold (Which is 80%)
+Memory Usage is above the threshold (Which is 80%)
+
+Memory free 
+Used	Avail	Use%	Mounted
+0	3.9G	0%	/dev
+8.0K	3.9G	1%	/dev/shm
+193M	3.7G	5%	/run
+0	3.9G	0%	/sys/fs/cgroup
+89M	2.0G	5%	/
+1.6G	3.5G	31%	/usr
+226M	284M	45%	/boot
+1.2G	897M	57%	/opt
+49G	1.2G	98%	/appl
+1.5G	3.6G	30%	/var
+33M	2.0G	2%	/tmp
+38M	2.0G	2%	/home
+208M	807M	21%	/var/log
+69M	946M	7%	/var/log/audit
+0	783M	0%	/run/user/1001
+
+26 days,
+● ntpd.service - Network Time Service
+   Loaded: loaded (/usr/lib/systemd/system/ntpd.service; enabled; vendor preset: disabled)
+   Active: inactive (dead)
+
+Thu 22 Sep 2022 04:48:10 PM
+Thu 22 Sep 2022 04:48:11 PM +08  -0.976508 seconds
+● ntpd.service - Network Time Service
+   Loaded: loaded (/usr/lib/systemd/system/ntpd.service; enabled; vendor preset: disabled)
+   Active: inactive (dead)
+server 0.rhel.pool.ntp.org iburst
+server 1.rhel.pool.ntp.org iburst
+server 2.rhel.pool.ntp.org iburst
+server 3.rhel.pool.ntp.org iburst
+
+
+Linux 3.10.0-1160.76.1.el7.x86_64 (dcvxapnetbkp1.w2k.bnm.gov.my) 	09/22/2022 	_x86_64_	(4 CPU)
+
+04:48:11 PM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+04:48:13 PM     all      7.75      0.00      2.75      0.00      0.00     89.50
+04:48:15 PM     all      0.88      0.00      0.25      0.00      0.00     98.87
+04:48:17 PM     all      0.38      0.00      0.12      0.00      0.00     99.50
+04:48:19 PM     all      0.13      0.00      0.38      0.00      0.00     99.50
+04:48:21 PM     all      0.50      0.00      0.25      0.00      0.00     99.25
+Average:        all      1.93      0.00      0.75      0.00      0.00     97.32
+Average:        all      0.47      0.00      0.26      0.01      0.00     99.27
+
+              total        used        free      shared  buff/cache   available
+Mem:           7821        1175         875         192        5770        6154
+Swap:             0           0           0
+Total:         7821        1175         875
+
+
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+devtmpfs                           3.9G     0  3.9G   0% /dev
+tmpfs                              3.9G  8.0K  3.9G   1% /dev/shm
+tmpfs                              3.9G  193M  3.7G   5% /run
+tmpfs                              3.9G     0  3.9G   0% /sys/fs/cgroup
+/dev/mapper/vg00-lv_root           2.0G   89M  2.0G   5% /
+/dev/mapper/vg00-lv_usr            5.0G  1.6G  3.5G  31% /usr
+/dev/sda1                          509M  226M  284M  45% /boot
+/dev/mapper/vg00-lv_opt            2.0G  1.2G  897M  57% /opt
+/dev/mapper/vg01-lv_appl            50G   49G  1.2G  98% /appl
+/dev/mapper/vg00-lv_var            5.0G  1.5G  3.6G  30% /var
+/dev/mapper/vg00-lv_tmp            2.0G   33M  2.0G   2% /tmp
+/dev/mapper/vg00-lv_home           2.0G   38M  2.0G   2% /home
+/dev/mapper/vg00-lv_var_log       1014M  208M  807M  21% /var/log
+/dev/mapper/vg00-lv_var_log_audit 1014M   69M  946M   7% /var/log/audit
+tmpfs                              783M     0  783M   0% /run/user/1001
+
+
+Jarvis         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_listener  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_passive   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+netconsole     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+network        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+rhnsd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+
+xinetd based services:
+	chargen-dgram: 	off
+	chargen-stream:	off
+	daytime-dgram: 	off
+	daytime-stream:	off
+	discard-dgram: 	off
+	discard-stream:	off
+	echo-dgram:    	off
+	echo-stream:   	off
+	nrpe:          	on
+	nsca:          	on
+	tcpmux-server: 	off
+	time-dgram:    	off
+	time-stream:   	off
+
+

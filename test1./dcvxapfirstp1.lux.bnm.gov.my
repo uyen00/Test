@@ -1,0 +1,75 @@
+
+dcvxapfirstp1.lux.bnm.gov.my
+ens160 ens192:10.20.9.100/16 192.168.9.156/21
+4.18.0-372.19.1.el8_6.x86_64
+ 21:35:38 up 31 days, 13:50,  1 user,  load average: 4.80, 2.09, 1.26
+kernel-4.18.0-372.26.1.el8_6.x86_64           Tue 20 Sep 2022 09:32:50 PM +08
+kernel-4.18.0-372.19.1.el8_6.x86_64           Fri 19 Aug 2022 07:25:36 PM +08
+kernel-4.18.0-372.16.1.el8_6.x86_64           Sat 23 Jul 2022 03:03:52 AM +08
+Red Hat Enterprise Linux release 8.6 (Ootpa)
+Intel(R) Xeon(R) CPU E7-4850 v4 @ 2.10GHz
+15800 MB
+2 of 2
+
+CPU usage is below the threshold (Which is 80%)
+Memory Usage is above the threshold (Which is 80%)
+
+Memory free 
+Used	Avail	Use%	Mounted
+0	7.7G	0%	/dev
+8.0K	7.8G	1%	/dev/shm
+863M	6.9G	11%	/run
+0	7.8G	0%	/sys/fs/cgroup
+700M	1.4G	35%	/
+2.5G	2.6G	49%	/usr
+315M	192M	63%	/boot
+222M	1.8G	11%	/home
+240G	111G	69%	/appl
+265M	3.8G	7%	/tmp
+1.1G	2.0G	35%	/var
+839M	2.2G	28%	/var/log
+95M	2.9G	4%	/var/log/audit
+3.7G	1.4G	74%	/opt
+0	1.6G	0%	/run/user/5001
+0	1.6G	0%	/run/user/1000
+
+31 days,
+
+Tue 20 Sep 2022 09:35:41 PM
+2022-09-20 21:35:41.604551+08:00
+
+
+
+              total        used        free      shared  buff/cache   available
+Mem:          15800        5560        2060         949        8178        8918
+Swap:           511         511           0
+Total:        16312        6072        2060
+
+
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+devtmpfs                           7.7G     0  7.7G   0% /dev
+tmpfs                              7.8G  8.0K  7.8G   1% /dev/shm
+tmpfs                              7.8G  863M  6.9G  11% /run
+tmpfs                              7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/mapper/vg00-lv_root           2.0G  700M  1.4G  35% /
+/dev/mapper/vg00-lv_usr            5.0G  2.5G  2.6G  49% /usr
+/dev/sda1                          507M  315M  192M  63% /boot
+/dev/mapper/vg00-lv_home           2.0G  222M  1.8G  11% /home
+/dev/mapper/vg00-lv_appl           350G  240G  111G  69% /appl
+/dev/mapper/vg00-lv_tmp            4.0G  265M  3.8G   7% /tmp
+/dev/mapper/vg00-lv_var            3.0G  1.1G  2.0G  35% /var
+/dev/mapper/vg00-lv_var_log        3.0G  839M  2.2G  28% /var/log
+/dev/mapper/vg00-lv_var_log_audit  3.0G   95M  2.9G   4% /var/log/audit
+/dev/mapper/vg00-lv_opt            5.0G  3.7G  1.4G  74% /opt
+tmpfs                              1.6G     0  1.6G   0% /run/user/5001
+tmpfs                              1.6G     0  1.6G   0% /run/user/1000
+
+
+Galaxy         	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+Jarvis         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_listener  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_passive   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+
+

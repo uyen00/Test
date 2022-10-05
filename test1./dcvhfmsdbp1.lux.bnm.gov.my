@@ -1,0 +1,126 @@
+
+dcvhfmsdbp1.lux.bnm.gov.my
+eth0 eth1:10.103.0.175/16 192.168.11.164/21
+3.10.0-1160.76.1.el7.x86_64
+ 11:49:24 up 21 days, 10:32,  1 user,  load average: 1.89, 1.62, 1.44
+kernel-3.10.0-1160.76.1.el7.x86_64            Fri 19 Aug 2022 07:22:26 PM +08
+kernel-3.10.0-1160.66.1.el7.x86_64            Sat 25 Jun 2022 12:09:18 AM +08
+kernel-3.10.0-1160.62.1.el7.x86_64            Sat 23 Apr 2022 12:04:45 AM +08
+Red Hat Enterprise Linux Server release 7.9 (Maipo)
+Intel(R) Xeon(R) CPU E5-2643 v4 @ 3.40GHz
+72293 MB
+2 of 2
+
+CPU usage is below the threshold (Which is 80%)
+Memory Usage is above the threshold (Which is 80%)
+
+Memory free 
+Used	Avail	Use%	Mounted
+0	36G	0%	/dev
+1.5G	34G	5%	/dev/shm
+2.1G	34G	6%	/run
+0	36G	0%	/sys/fs/cgroup
+652M	1.4G	32%	/
+4.5G	3.6G	56%	/usr
+369M	138M	73%	/boot
+786G	214G	79%	/backup
+5.2G	4.9G	52%	/home
+1.8G	5.7G	24%	/var
+37M	2.0G	2%	/tmp
+3.1G	2.0G	61%	/opt
+534M	481M	53%	/var/log
+69M	10G	1%	/var/log/audit
+65G	36G	65%	/u01
+12K	7.1G	1%	/run/user/42
+0	7.1G	0%	/run/user/54321
+0	7.1G	0%	/run/user/54329
+0	7.1G	0%	/run/user/54328
+
+21 days,
+● ntpd.service - Network Time Service
+   Loaded: loaded (/usr/lib/systemd/system/ntpd.service; enabled; vendor preset: disabled)
+   Active: inactive (dead)
+
+Sat 10 Sep 2022 11:49:25 AM
+Sat 10 Sep 2022 11:49:26 AM +08  -0.991469 seconds
+● ntpd.service - Network Time Service
+   Loaded: loaded (/usr/lib/systemd/system/ntpd.service; enabled; vendor preset: disabled)
+   Active: inactive (dead)
+server 0.rhel.pool.ntp.org iburst
+server 1.rhel.pool.ntp.org iburst
+server 2.rhel.pool.ntp.org iburst
+server 3.rhel.pool.ntp.org iburst
+
+
+Linux 3.10.0-1160.76.1.el7.x86_64 (dcvhfmsdbp1.lux.bnm.gov.my) 	09/10/2022 	_x86_64_	(6 CPU)
+
+11:49:26 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+11:49:28 AM     all      9.53      0.00      3.03      0.09      0.09     87.26
+11:49:30 AM     all     17.50      0.00      4.84      0.00      0.09     77.57
+11:49:32 AM     all     19.62      0.00      4.67      0.09      0.09     75.54
+11:49:34 AM     all     19.39      0.00     12.12      0.09      0.09     68.31
+11:49:36 AM     all     15.28      0.00     14.68      0.00      0.00     70.03
+Average:        all     16.26      0.00      7.88      0.05      0.07     75.73
+Average:        all     12.66      0.00      2.71      0.30      0.08     84.25
+
+              total        used        free      shared  buff/cache   available
+Mem:          72293       40515       14967        3708       16810       27458
+Swap:         22527           0       22527
+Total:        94821       40515       37495
+
+
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+devtmpfs                            36G     0   36G   0% /dev
+tmpfs                               36G  1.5G   34G   5% /dev/shm
+tmpfs                               36G  2.1G   34G   6% /run
+tmpfs                               36G     0   36G   0% /sys/fs/cgroup
+/dev/mapper/vg00-lv_root           2.0G  652M  1.4G  32% /
+/dev/mapper/vg00-lv_usr            8.0G  4.5G  3.6G  56% /usr
+/dev/sda1                          506M  369M  138M  73% /boot
+/dev/mapper/vg02-lv_backup        1000G  786G  214G  79% /backup
+/dev/mapper/vg00-lv_home            10G  5.2G  4.9G  52% /home
+/dev/mapper/vg00-lv_var            7.4G  1.8G  5.7G  24% /var
+/dev/mapper/vg00-lv_tmp            2.0G   37M  2.0G   2% /tmp
+/dev/mapper/vg00-lv_opt            5.0G  3.1G  2.0G  61% /opt
+/dev/mapper/vg00-lv_var_log       1014M  534M  481M  53% /var/log
+/dev/mapper/vg00-lv_var_log_audit   10G   69M   10G   1% /var/log/audit
+/dev/mapper/vg01-lv_u01            100G   65G   36G  65% /u01
+tmpfs                              7.1G   12K  7.1G   1% /run/user/42
+tmpfs                              7.1G     0  7.1G   0% /run/user/54321
+tmpfs                              7.1G     0  7.1G   0% /run/user/54329
+tmpfs                              7.1G     0  7.1G   0% /run/user/54328
+
+
+Galaxy         	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+Jarvis         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+acfssihamount  	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+gcstartup      	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+lockgcstartup  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_listener  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_passive   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+netconsole     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+network        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ngt_guest_agent	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ngt_self_service_restore	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ohasd          	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+rhnsd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+unlockgcstartup	0:off	1:off	2:off	3:off	4:on	5:off	6:off
+
+xinetd based services:
+	chargen-dgram: 	off
+	chargen-stream:	off
+	daytime-dgram: 	off
+	daytime-stream:	off
+	discard-dgram: 	off
+	discard-stream:	off
+	echo-dgram:    	off
+	echo-stream:   	off
+	nrpe:          	on
+	nsca:          	on
+	tcpmux-server: 	off
+	time-dgram:    	off
+	time-stream:   	off
+
+
