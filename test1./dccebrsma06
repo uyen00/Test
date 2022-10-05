@@ -1,0 +1,1698 @@
+
+dccebrsma06
+em1 em3 p4p1 bond0:192.168.2.6/16 192.168.8.64/21
+2.6.32-754.47.1.el6.x86_64
+ 11:03:32 up 48 days, 13:14,  1 user,  load average: 4.98, 4.24, 3.31
+kernel-2.6.32-754.48.1.el6.x86_64             Fri 19 Aug 2022 08:40:58 PM +08
+kernel-2.6.32-754.47.1.el6.x86_64             Fri 24 Jun 2022 10:00:42 PM +08
+kernel-2.6.32-754.43.1.el6.x86_64             Sat 19 Mar 2022 12:08:51 AM +08
+Red Hat Enterprise Linux Server release 6.10 (Santiago)
+Intel(R) Xeon(R) CPU E7-4809 v3 @ 2.00GHz
+128304 MB
+4 of 7
+
+CPU usage is below the threshold (Which is 80%)
+Memory Usage is below the threshold (Which is 80%)
+
+Memory free 85
+Used	Avail	Use%	Mounted
+1.3G	33%	/	
+1.1G	62G	2%	/dev/shm
+137M	327M	30%	/boot
+4.1G	12%	/home	
+1.5G	79%	/opt	
+1.8G	3%	/tmp	
+1.7G	64%	/usr	
+3.0G	69%	/var	
+1.8G	63%	/var/log	
+896M	4%	/var/log/audit	
+475G	1%	/opt/simpana	
+353G	27%	/IndexCache	
+387G	73%	/DCCMA06GDDB/DDB	
+1.6T	81%	/DCCMA01_Disk10	
+2.7T	67%	/DCCMA01_Disk11	
+1.4T	83%	/DCCMA01_Disk12	
+2.3T	72%	/DCCMA01_Disk13	
+1.6T	82%	/DCCMA01_Disk14	
+2.0T	77%	/DCCMA01_Disk15	
+1.8T	79%	/DCCMA01_Disk16	
+4.0T	51%	/DCCMA01_Disk17	
+3.7T	55%	/DCCMA02_Disk6	
+2.4T	71%	/DCCMA02_Disk7	
+2.4T	71%	/DCCMA02_Disk8	
+1.5T	83%	/DCCMA02_Disk9	
+2.0T	77%	/DCCMA02_Disk10	
+2.2T	73%	/DCCMA02_Disk11	
+2.1T	75%	/DCCMA02_Disk12	
+1.5T	82%	/DCCMA02_Disk13	
+1.1T	87%	/DCCMA03_Disk6	
+1.8T	79%	/DCCMA03_Disk7	
+1.7T	80%	/DCCMA03_Disk8	
+2.4T	71%	/DCCMA03_Disk9	
+2.6T	68%	/DCCMA03_Disk10	
+2.1T	75%	/DCCMA03_Disk11	
+953G	89%	/DCCMA03_Disk12	
+2.3T	73%	/DCCMA03_Disk13	
+2.6T	68%	/DCCMA04_Disk5	
+2.3T	72%	/DCCMA04_Disk6	
+1.7T	80%	/DCCMA04_Disk7	
+2.8T	67%	/DCCMA04_Disk8	
+3.1T	62%	/DCCMA04_Disk9	
+1.6T	81%	/DCCMA04_Disk10	
+3.8T	54%	/DCCMA04_Disk11	
+953G	89%	/DCCMA04_Disk12	
+3.0T	64%	/DCCMA05_Disk3	
+2.2T	73%	/DCCMA05_Disk4	
+1.7T	80%	/DCCMA05_Disk5	
+968G	89%	/DCCMA05_Disk6	
+1.6T	81%	/DCCMA05_Disk7	
+1.5T	82%	/DCCMA05_Disk8	
+2.5G	100%	/DCCMA05_Disk9	
+3.0T	64%	/DCCMA05_Disk10	
+3.1T	62%	/DCCMA06_Disk1	
+3.5T	57%	/DCCMA06_Disk2	
+3.9T	52%	/DCCMA06_Disk3	
+2.2T	74%	/DCCMA06_Disk4	
+1.4T	83%	/DCCMA06_Disk5	
+2.7T	68%	/DCCMA06_Disk6	
+2.2T	73%	/DCCMA06_Disk7	
+2.7T	67%	/DCCMA06_Disk8	
+1.5T	82%	/DCCMA07_Disk1	
+187G	96%	/DCCMA01_Disk19	
+155G	97%	/DCCMA01_Disk20	
+385G	91%	/DCCMA01_Disk21	
+950G	8%	/DCCMA01_Disk22	
+2.0T	1%	/DCCMA01_Disk23	
+793G	81%	/DCCMA02_Disk14	
+252G	94%	/DCCMA02_Disk15	
+964G	6%	/DCCMA02_Disk16	
+2.0T	1%	/DCCMA02_Disk17	
+398G	91%	/DCCMA03_Disk14	
+1.8G	100%	/DCCMA03_Disk15	
+757G	27%	/DCCMA03_Disk16	
+83G	98%	/DCCMA04_Disk13	
+954G	77%	/DCCMA04_Disk14	
+712G	31%	/DCCMA04_Disk15	
+8.0T	1%	/DCCMA04_Disk16	
+8.0T	1%	/DCCMA04_Disk17	
+8.0T	1%	/DCCMA04_Disk18	
+8.0T	1%	/DCCMA04_Disk19	
+812G	81%	/DCCMA05_Disk11	
+768G	26%	/DCCMA05_Disk12	
+8.0T	1%	/DCCMA05_Disk13	
+8.0T	1%	/DCCMA05_Disk14	
+8.0T	1%	/DCCMA05_Disk15	
+8.0T	1%	/DCCMA05_Disk16	
+2.5T	69%	/DCCMA07_Disk2	
+4.0T	51%	/DCCMA07_Disk3	
+1.3T	85%	/DCCMA07_Disk4	
+2.9T	64%	/DCCMA07_Disk5	
+3.6T	56%	/DCCMA07_Disk6	
+2.7T	68%	/DCCMA07_Disk7	
+2.3T	73%	/DCCMA08_Disk1	
+3.1T	62%	/DCCMA08_Disk2	
+623G	93%	/DCCMA08_Disk3	
+799G	91%	/DCCMA08_Disk4	
+61G	100%	/DCCMA08_Disk5	
+2.1T	75%	/DCCMA08_Disk6	
+3.9T	52%	/DCCMA08_Disk7	
+2.7T	67%	/DCCMA08_Disk8	
+1.1T	88%	/DCCMA09_Disk1	
+97G	99%	/DCCMA09_Disk2	
+1.6T	82%	/DCCMA09_Disk3	
+708G	92%	/DCCMA09_Disk4	
+1.3T	85%	/DCCMA09_Disk5	
+1.4T	83%	/DCCMA09_Disk6	
+71G	100%	/DCCMA09_Disk7	
+3.0T	63%	/DCCMA09_Disk8	
+3.4T	59%	/DCCMA10_Disk1	
+3.0T	64%	/DCCMA10_Disk2	
+424G	95%	/DCCMA10_Disk3	
+258G	97%	/DCCMA10_Disk4	
+4.0G	100%	/DCCMA10_Disk5	
+3.5T	57%	/DCCMA10_Disk6	
+1.2T	86%	/DCCMA10_Disk7	
+84G	99%	/DCCMA10_Disk8	
+46G	100%	/DCCMA11_Disk1	
+124G	99%	/DCCMA11_Disk2	
+2.5G	100%	/DCCMA11_Disk3	
+989G	88%	/DCCMA11_Disk4	
+3.2T	61%	/DCCMA11_Disk5	
+2.2G	100%	/DCCMA11_Disk7	
+3.5T	57%	/DCCMA11_Disk8	
+131G	99%	/DCCMA11_Disk9	
+434G	95%	/DCCMA11_Disk10	
+1.4T	83%	/DCCMA11_Disk11	
+1.6T	81%	/DCCMA10_Disk9	
+8.0T	1%	/DCCMA10_Disk10	
+8.0T	1%	/DCCMA10_Disk11	
+8.0T	1%	/DCCMA10_Disk12	
+8.0T	1%	/DCCMA10_Disk13	
+8.0T	1%	/DCCMA10_Disk14	
+8.0T	1%	/DCCMA10_Disk15	
+8.0T	1%	/DCCMA10_Disk16	
+2.3T	72%	/DCCMA11_Disk12	
+2.4T	71%	/DCCMA11_Disk13	
+2.5T	70%	/DCCMA11_Disk14	
+1.4T	84%	/DCCMA11_Disk15	
+3.1T	62%	/DCCMA11_Disk16	
+2.6T	69%	/DCCMA11_Disk17	
+3.7T	54%	/DCCMA11_Disk18	
+3.1T	62%	/DCCMA11_Disk19	
+2.5T	70%	/DCCMA12_Disk1	
+4.0T	51%	/DCCMA12_Disk2	
+2.7T	67%	/DCCMA12_Disk3	
+8.0T	1%	/DCCMA12_Disk4	
+8.0T	1%	/DCCMA12_Disk5	
+8.0T	1%	/DCCMA12_Disk6	
+8.0T	1%	/DCCMA12_Disk7	
+8.0T	1%	/DCCMA12_Disk8	
+8.0T	1%	/DCCMA13_Disk1	
+8.0T	1%	/DCCMA13_Disk2	
+8.0T	1%	/DCCMA13_Disk3	
+8.0T	1%	/DCCMA13_Disk4	
+8.0T	1%	/DCCMA13_Disk5	
+8.0T	1%	/DCCMA13_Disk6	
+8.0T	1%	/DCCMA13_Disk7	
+8.0T	1%	/DCCMA13_Disk8	
+298G	97%	/DCCMA11_Disk20	
+349G	96%	/DCCMA11_Disk21	
+292G	97%	/DCCMA12_Disk9	
+1.5T	82%	/DCCMA12_Disk10	
+3.1T	62%	/DCCMA12_Disk11	
+1.9T	78%	/DCCMA12_Disk12	
+2.4T	71%	/DCCMA12_Disk13	
+3.0T	64%	/DCCMA12_Disk15	
+1.3T	85%	/DCCMA12_Disk16	
+1.8T	78%	/DCCMA12_Disk17	
+2.6G	100%	/DCCMA12_Disk18	
+1.6T	81%	/DCCMA13_Disk14	
+1.2T	86%	/DCCMA13_Disk15	
+2.1T	75%	/DCCMA13_Disk16	
+2.5T	70%	/DCCMA13_Disk17	
+2.7T	67%	/DCCMA13_Disk18	
+709G	92%	/DCCMA06_Disk09	
+51G	100%	/DCCMA06_Disk10	
+268G	97%	/DCCMA06_Disk11	
+2.1T	75%	/DCCMA06_Disk12	
+537G	94%	/DCCMA06_Disk14	
+2.8T	67%	/DCCMA06_Disk15	
+8.0T	1%	/DCCMA12_Disk14	
+2.7T	35%	/DCCMA07_Disk9	
+5.2T	36%	/DCCMA09_Disk10	
+6.6T	18%	/DCCMA09_Disk11	
+3.5G	100%	/DCCMA09_Disk12	
+8.0T	2%	/DCCMA09_Disk13	
+7.9T	2%	/DCCMA09_Disk09	
+387G	73%	/opt/simpana/commvault/iDataAgent64/jobResults/2/4274/DDB_SNAPSHOTS/DDBSnap_3187622139	
+
+48 days,
+ntpd (pid  50622) is running...
+ntpd           	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+
+Sat 10 Sep 2022 11:03:34 AM ZONE="Asia/Kuala_Lumpur"
+Sat 10 Sep 2022 11:03:35 AM +08  -0.191873 seconds
+ntpd (pid  50622) is running...
+server 10.10.10.75 iburst
+server 10.10.10.76 iburst
+
+
+Linux 2.6.32-754.47.1.el6.x86_64 (dccebrsma06) 	09/10/2022 	_x86_64_	(64 CPU)
+
+11:03:35 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+11:03:37 AM     all      0.02      0.00      0.70      1.45      0.00     97.83
+11:03:39 AM     all      0.54      0.00      1.35      1.45      0.00     96.66
+11:03:41 AM     all      1.15      0.00      2.43      1.43      0.00     94.99
+11:03:43 AM     all      0.02      0.00      0.52      1.46      0.00     98.00
+11:03:45 AM     all      0.07      0.00      0.67      1.46      0.00     97.79
+Average:        all      0.36      0.00      1.13      1.45      0.00     97.05
+Average:        all      1.71      0.00      3.89      1.01      0.00     93.39
+
+             total       used       free     shared    buffers     cached
+Mem:        128304     127204       1099       1310        571     108018
+-/+ buffers/cache:      18614     109690
+Swap:            0          0          0
+Total:      128304     127204       1099
+
+
+Linux 2.6.32-754.47.1.el6.x86_64 (dccebrsma06) 	09/10/2022 	_x86_64_	(64 CPU)
+
+09/10/2022 11:03:46 AM
+Device:            tps    MB_read/s    MB_wrtn/s    MB_read    MB_wrtn
+sda               2.06         0.01         0.00      33206        977
+sdc               2.68         0.01         0.30      28155    1265100
+sdd               1.31         0.01         0.00      21195       1345
+sdf               1.64         0.01         0.00      26402       3433
+sdg               0.94         0.00         0.00      14944        691
+sdb               3.04         0.01         0.24      36592     992450
+sdh               2.31         0.01         0.10      32702     400535
+sdi               1.54         0.01         0.00      24712        643
+sdj               1.25         0.00         0.00      19868      17211
+sdk               0.07         0.00         0.00       1085          0
+sdl               0.07         0.00         0.00       1084          0
+sdm               0.07         0.00         0.00       1084          0
+sdn               0.07         0.00         0.00       1084          0
+sdo               1.83         0.01         0.00      29250      12424
+sdp               0.07         0.00         0.00       1085          0
+sdq               0.07         0.00         0.00       1085          0
+sdr               0.07         0.00         0.00       1084          0
+sds               0.07         0.00         0.00       1084          0
+sdt               0.07         0.00         0.00       1085          0
+sde               0.07         0.00         0.00       1084          0
+sdu               0.07         0.00         0.00       1073          0
+sdv               0.07         0.00         0.00       1075          0
+sdao              1.92         0.05         0.20     188860     831550
+sdaq              2.03         0.04         0.18     152242     758934
+sdap              1.46         0.02         0.10      99808     407756
+sdw               0.07         0.00         0.00       1077          0
+sdar              1.26         0.01         0.17      61719     728038
+sdas              1.84         0.06         0.08     245665     342617
+sdat              2.14         0.04         0.29     159122    1218677
+sdx               0.07         0.00         0.00       1076          0
+sdy               0.07         0.00         0.00       1076          0
+sdz               0.07         0.00         0.00       1076          0
+sdaa              0.07         0.00         0.00       1077          0
+sdau              1.84         0.03         0.07     112956     309472
+sdav              1.65         0.03         0.19     126442     798861
+sdab              0.07         0.00         0.00       1075          0
+sdaw              1.67         0.06         0.07     260453     279294
+sdax              2.26         0.05         0.32     201203    1345238
+sday              2.77         0.03         0.45     122398    1888816
+sdac              0.07         0.00         0.00       1076          0
+sdba              2.87         0.07         0.41     280139    1731200
+sdbb              1.22         0.03         0.06     141961     254139
+sdad              0.07         0.00         0.00       1074          0
+sdbc              1.57         0.06         0.13     233165     541512
+sdaz              1.42         0.03         0.15     105173     610749
+sdbd              1.48         0.02         0.22      63034     908819
+sdbe              2.01         0.05         0.25     190286    1047524
+sdaf              0.07         0.00         0.00       1075          0
+sdah              0.07         0.00         0.00       1073          0
+sdbf              2.39         0.09         0.24     392495    1025354
+sdai              0.07         0.00         0.00       1072          0
+sdae              0.07         0.00         0.00       1072          0
+sdbg              1.37         0.02         0.09      99622     367835
+sdag              0.07         0.00         0.00       1072          0
+sdaj              0.07         0.00         0.00       1072          0
+sdbh              1.36         0.02         0.08      98118     327608
+sdak              0.07         0.00         0.00       1073          0
+sdal              0.07         0.00         0.00       1072          0
+sdam              0.07         0.00         0.00       1073          0
+sdan              0.07         0.00         0.00       1073          0
+sdbj              1.63         0.06         0.12     263644     523084
+sdbk              1.53         0.02         0.19      83654     803345
+sdbl              1.40         0.03         0.07     122631     291842
+sdbn              1.88         0.05         0.18     206227     773920
+sdbi              1.97         0.03         0.24     131942    1009162
+sdbo              1.72         0.07         0.11     283714     479997
+sdbp              1.35         0.05         0.05     206921     194964
+sdbq              1.73         0.09         0.06     360520     271595
+sdbv              1.28         0.04         0.07     163305     289958
+sdbw              1.84         0.04         0.16     152568     673713
+sdbz              1.88         0.02         0.33      84460    1388198
+sdbu              2.74         0.12         0.26     502698    1070215
+sdbt              1.30         0.02         0.13      99804     550046
+sdcc              0.22         0.00         0.00       3672          0
+sdbs              1.40         0.03         0.15     110978     630574
+sdbr              1.49         0.04         0.15     151550     632647
+sdby              1.87         0.08         0.11     352536     475054
+sdca              1.22         0.03         0.04     117884     147287
+sdce              1.59         0.02         0.07     103178     293001
+sdbx              2.07         0.04         0.19     181814     794860
+sdcf              1.37         0.03         0.03     128531     118877
+sdcd              1.17         0.02         0.03      79801     133574
+sdcg              0.28         0.00         0.00       4628          0
+sdci              2.26         0.05         0.25     202240    1040376
+sdch              0.30         0.00         0.00       4667        151
+sdcl              0.30         0.00         0.00       4671        156
+sdck              0.28         0.00         0.00       4625          0
+sdcm              1.73         0.05         0.09     203983     375180
+sdcn              1.66         0.02         0.05     101942     192156
+sdcj              1.81         0.05         0.08     213539     340230
+sdco              0.28         0.00         0.00       4626          0
+sdcb              1.99         0.05         0.24     213227    1025908
+sdbm              1.65         0.02         0.22      89976     920128
+sdcq              1.63         0.01         0.18      60679     766844
+sdcr              0.28         0.00         0.00       4630          0
+sdcp              1.62         0.06         0.05     260389     210495
+sdcs              0.28         0.00         0.00       4626          0
+sdct              0.28         0.00         0.00       4626          0
+sdcx              0.28         0.00         0.00       4625          0
+sdcu              0.28         0.00         0.00       4624          0
+sdcv              0.28         0.00         0.00       4623          0
+sdcy              0.28         0.00         0.00       4621          0
+sdda              0.28         0.00         0.00       4624          0
+sdcz              0.28         0.00         0.00       4623          0
+sddc              2.22         0.06         0.20     255916     828260
+sddd              2.39         0.06         0.13     253500     531294
+sddb              0.28         0.00         0.00       4623          0
+sdcw              1.52         0.04         0.11     174483     443492
+sdde              2.01         0.05         0.12     214088     513391
+sddi              2.51         0.02         0.22      76906     925937
+sddf              2.11         0.04         0.26     185801    1097704
+sddj              2.17         0.10         0.08     414310     315506
+sddk              2.12         0.02         0.20     103440     858608
+sddh              2.18         0.05         0.13     219510     547422
+sddn              2.34         0.02         0.24      90006     992079
+sddl              3.24         0.13         0.16     565886     687569
+sddm              2.23         0.03         0.20     113996     826632
+sddg              2.86         0.06         0.10     241891     408660
+sddq              7.69         0.07         0.21     273361     899848
+sddo              1.81         0.03         0.10     146800     432952
+sddr              0.93         0.00         0.01      14656      30190
+sddp              2.79         0.06         0.27     265777    1133179
+sddt              1.06         0.00         0.11      11593     466687
+sdds              0.55         0.00         0.00       8777        361
+sddu              0.49         0.00         0.00       7848        157
+sddx              0.39         0.00         0.00       6057       7000
+sddv              4.09         0.02         0.00      66813       1992
+sddy              0.60         0.00         0.00       9615       2827
+sddw              0.45         0.00         0.00       7037       1304
+sdeb              0.98         0.00         0.00      15801       1616
+sdec              0.98         0.00         0.00      15779        175
+sddz              0.56         0.00         0.00       8936        171
+sdea              1.83         0.01         0.01      29548      22873
+sded              0.76         0.00         0.00      12271        749
+sdef              0.59         0.00         0.01       8984      32847
+sdeg              0.63         0.00         0.00      10015       2900
+sdei              0.42         0.00         0.00       6718        784
+sdee              0.98         0.00         0.07      12211     299884
+sdeh              0.46         0.00         0.00       7370        183
+sdej              1.05         0.00         0.00      16920       3740
+sdel              0.96         0.00         0.00      15381       3302
+sdek              0.59         0.00         0.00       9488        797
+sdem              0.37         0.00         0.00       5876        161
+sden              1.01         0.00         0.00      16303        735
+sder           2507.70        35.71        15.64  149813124   65602513
+sdeo              1.24         0.00         0.00      20053        159
+sdep             44.90         0.09         0.44     389997    1826508
+sdeq             14.80         0.25         0.21    1030253     874895
+sdes              0.52         0.00         0.00       8284       3146
+sdew              0.28         0.00         0.00       4627          0
+sdev              0.28         0.00         0.00       4624          0
+sdex              0.28         0.00         0.00       4624          0
+sdfa              1.52         0.03         0.08     142358     317511
+sdez              0.28         0.00         0.00       4623          0
+sdet              0.28         0.00         0.00       4622          0
+sdeu              0.28         0.00         0.00       4629          0
+sdfb              4.32         0.04         0.16     172161     686813
+sdfc              2.72         0.03         0.30     113482    1243087
+sdfh              1.70         0.04         0.09     177379     365750
+sdey              0.28         0.00         0.00       4626          0
+sdfi              2.93         0.06         0.07     272033     297848
+sdff              2.00         0.03         0.15     117774     642803
+sdfj              2.67         0.09         0.07     367156     299790
+sdfm              0.28         0.00         0.00       4626          0
+sdfg              1.66         0.03         0.13     142903     531514
+sdfe              2.45         0.02         0.36      88430    1495566
+sdfd              2.32         0.07         0.14     301716     572462
+sdfk              3.68         0.05         0.50     213606    2079895
+sdfn              0.28         0.00         0.00       4626          0
+sdfp              0.28         0.00         0.00       4624          0
+sdfq              0.28         0.00         0.00       4624          0
+sdfl              0.28         0.00         0.00       4627          0
+sdfo              0.28         0.00         0.00       4626          0
+sdfr              0.28         0.00         0.00       4626          0
+sdfs              0.28         0.00         0.00       4624          0
+sdft              0.28         0.00         0.00       4626          0
+sdfw              0.28         0.00         0.00       4628          0
+sdfu              0.28         0.00         0.00       4626          0
+sdfz              0.38         0.00         0.00       5907      10933
+sdfv              0.28         0.00         0.00       4627          0
+sdfx              0.28         0.00         0.00       4628          0
+sdfy              0.37         0.00         0.00       5844        938
+sdgd              0.33         0.00         0.00       5076       5123
+sdgc              0.45         0.00         0.00       6752      10200
+sdge              0.37         0.00         0.00       5890       1674
+sdgg              0.32         0.00         0.00       4942       2982
+sdgh              0.34         0.00         0.00       5333        227
+sdgb              0.33         0.00         0.00       5092       5707
+sdgl              0.51         0.00         0.00       8189        359
+sdgm              0.36         0.00         0.00       5711        173
+sdgt              0.36         0.00         0.00       5644       2435
+sdgj              0.37         0.00         0.00       5730       7691
+sdgf              0.28         0.00         0.00       4628          0
+sdgx              1.76         0.00         0.35      10074    1453018
+sdha              0.34         0.00         0.00       5359        207
+sdgp              0.45         0.00         0.00       6934      15125
+sdgs              0.59         0.00         0.00       9306      11674
+sdgo              0.46         0.00         0.00       7269        211
+sdga              0.31         0.00         0.00       4795        147
+sdgr              0.98         0.00         0.13       9081     525228
+sdgz              3.82         0.00         0.97      10377    4081683
+sdgq              0.39         0.00         0.00       5675        632
+sdgy              1.04         0.00         0.00      16969        219
+sdhb              0.28         0.00         0.00       4624          0
+sdgu              0.36         0.00         0.00       5744        801
+sdgn              1.60         0.00         0.12      19959     508160
+sdgk              0.16         0.00         0.00       2542          0
+sdgv              0.57         0.00         0.00       9180        155
+sdgi              0.42         0.00         0.00       6709       1796
+sdgw              0.38         0.00         0.01       5590      39568
+vg00-lv_root    104.20         0.01         0.40      21845    1698754
+dccebrsma11_disk4     1.98         0.01         0.00      32122        977
+dccebrsma11_disk2     2.58         0.01         0.30      27071    1265100
+dccebrsma11_disk11     1.24         0.00         0.00      20112       1345
+dccebrsma11_disk8     1.57         0.01         0.00      25320       3433
+dccebrsma11_disk5     0.87         0.00         0.00      13860        691
+dccebrsma11_disk3     2.94         0.01         0.24      35508     992450
+dccebrsma11_disk1     2.23         0.01         0.10      31618     400535
+dccebrsma11_disk10     1.46         0.01         0.00      23628        643
+dccebrsma11_disk7     1.18         0.00         0.00      18783      17211
+dccebrsma11_disk4p1     1.96         0.01         0.00      31593        977
+dccebrsma11_disk9     1.75         0.01         0.00      28165      12424
+dccebrsma01_disk10     3.75         0.09         0.40     377173    1663101
+dccebrsma01_disk12     3.99         0.07         0.36     303816    1518027
+dccebrsma01_disk11     2.86         0.05         0.19     199078     815628
+dccebrsma11_disk11p1     1.22         0.00         0.00      19583       1345
+dccebrsma02_disk6     2.46         0.03         0.35     122858    1456003
+dccebrsma11_disk2p1     2.88         0.01         0.30      26540    1265100
+dccebrsma02_disk7     3.60         0.12         0.16     490801     685210
+dccebrsma02_disk8     4.18         0.08         0.58     317795    2437604
+dccebrsma03_disk6     3.60         0.05         0.15     225294     618992
+dccebrsma11_disk8p1     1.54         0.01         0.00      24791       3433
+dccebrsma03_disk7     3.23         0.06         0.38     252311    1597726
+dccebrsma03_disk8     3.26         0.12         0.13     520379     558710
+dccebrsma11_disk3p1     3.20         0.01         0.24      34980     992450
+dccebrsma04_disk5     4.45         0.10         0.64     401822    2690127
+dccebrsma11_disk5p1     0.84         0.00         0.00      13331        691
+dccebrsma11_disk1p1     2.30         0.01         0.10      31089     400535
+dccebrsma04_disk6     5.46         0.06         0.90     244244    3777869
+dccebrsma11_disk10p1     1.44         0.01         0.00      23101        643
+dccebrsma05_disk3     5.67         0.13         0.83     559763    3462545
+dccebrsma05_disk4     2.38         0.07         0.12     283337     508163
+dccebrsma11_disk7p1     1.16         0.00         0.00      18255      17211
+dccebrsma05_disk5     3.08         0.11         0.26     465784    1083059
+dccebrsma04_disk7     2.77         0.05         0.29     209821    1221810
+dccebrsma11_disk9p1     1.73         0.01         0.00      27634      12424
+dccebrsma01_disk10p1     4.19         0.09         0.40     376642    1663101
+dccebrsma01_disk12p1     4.42         0.07         0.36     303284    1518027
+dccebrsma01_disk11p1     3.11         0.05         0.19     198546     815628
+dccebrsma01_disk13     2.88         0.03         0.43     125481    1817492
+dccebrsma02_disk6p1     2.76         0.03         0.35     122329    1456003
+dccebrsma02_disk8p1     4.78         0.08         0.58     317267    2437604
+dccebrsma01_disk14     3.95         0.09         0.50     380062    2095066
+dccebrsma02_disk7p1     3.85         0.12         0.16     490273     685210
+dccebrsma03_disk7p1     3.59         0.06         0.38     251782    1597726
+dccebrsma01_disk15     4.71         0.19         0.49     784532    2050652
+dccebrsma01_disk16     2.67         0.05         0.18     198710     735701
+dccebrsma03_disk6p1     3.88         0.05         0.15     224764     618992
+dccebrsma03_disk8p1     3.48         0.12         0.13     519849     558710
+dccebrsma04_disk5p1     4.99         0.10         0.64     401293    2690127
+dccebrsma04_disk6p1     6.36         0.06         0.90     243715    3777869
+dccebrsma05_disk3p1     6.31         0.13         0.83     559234    3462545
+dccebrsma01_disk13p1     3.24         0.03         0.43     124948    1817492
+dccebrsma04_disk7p1     3.02         0.05         0.29     209289    1221810
+dccebrsma01_disk15p1     5.21         0.19         0.49     784004    2050652
+dccebrsma01_disk16p1     2.90         0.05         0.18     198179     735701
+dccebrsma01_disk17     2.66         0.05         0.16     195673     655164
+dccebrsma05_disk5p1     3.36         0.11         0.26     465253    1083059
+dccebrsma05_disk4p1     2.55         0.07         0.12     282809     508163
+dccebrsma02_disk10     3.19         0.13         0.25     526748    1046504
+dccebrsma02_disk11     2.98         0.04         0.38     166789    1606928
+dccebrsma02_disk12     2.73         0.06         0.14     244595     583694
+dccebrsma03_disk9     3.70         0.10         0.37     411904    1547866
+dccebrsma02_disk9     3.87         0.06         0.48     263258    2018441
+dccebrsma03_disk10     3.37         0.14         0.23     566682     960033
+dccebrsma03_disk11     2.63         0.10         0.09     413117     389966
+dccebrsma03_disk12     3.41         0.17         0.13     720409     543189
+dccebrsma02_disk10p1     3.46         0.13         0.25     526221    1046504
+dccebrsma02_disk12p1     2.92         0.06         0.14     244067     583694
+dccebrsma03_disk9p1     4.03         0.10         0.37     411376    1547866
+dccebrsma03_disk12p1     3.58         0.17         0.13     719879     543189
+dccebrsma03_disk11p1     2.77         0.10         0.09     412589     389966
+dccebrsma02_disk9p1     4.31         0.06         0.48     262729    2018441
+dccebrsma01_disk17p1     2.86         0.05         0.16     195142     655164
+dccebrsma04_disk11     2.49         0.08         0.14     326106     579852
+dccebrsma02_disk11p1     3.35         0.04         0.38     166261    1606928
+dccebrsma04_disk12     3.61         0.07         0.32     304612    1347623
+dccebrsma05_disk8     3.68         0.04         0.66     168439    2776456
+dccebrsma04_disk10     5.39         0.24         0.51    1004912    2140593
+dccebrsma04_disk9     2.53         0.05         0.26     199036    1100238
+dccebrsma01_disk18     0.44         0.00         0.00       7249          0
+dccebrsma04_disk8     2.73         0.05         0.30     221345    1261121
+dccebrsma03_disk13     2.91         0.07         0.30     302654    1265031
+dccebrsma05_disk7     3.67         0.17         0.23     704638     950121
+dccebrsma05_disk9     2.37         0.06         0.07     235284     294434
+dccebrsma01_disk20     3.10         0.05         0.14     205897     586285
+dccebrsma04_disk10p1     5.97         0.24         0.51    1004387    2140593
+dccebrsma04_disk11p1     2.69         0.08         0.14     325577     579852
+dccebrsma04_disk9p1     2.75         0.05         0.26     198509    1100238
+dccebrsma05_disk8p1     4.17         0.04         0.66     167910    2776456
+dccebrsma03_disk13p1     3.16         0.07         0.30     302127    1265031
+dccebrsma05_disk7p1     3.94         0.17         0.23     704112     950121
+dccebrsma04_disk12p1     3.92         0.07         0.32     304081    1347623
+dccebrsma05_disk6     4.07         0.09         0.38     363039    1589686
+dccebrsma05_disk9p1     2.51         0.06         0.07     234755     294434
+dccebrsma01_disk21     2.67         0.06         0.06     256496     237640
+dccebrsma01_disk19     2.28         0.04         0.06     159068     267100
+dccebrsma01_disk22     0.53         0.00         0.00       8705          0
+dccebrsma02_disk14     4.42         0.10         0.50     403938    2080737
+dccebrsma01_disk23     0.56         0.00         0.00       8787        303
+dccebrsma02_disk17     0.56         0.00         0.00       8798        313
+dccebrsma02_disk16     0.53         0.00         0.00       8704          0
+dccebrsma03_disk14     3.38         0.10         0.18     407298     750466
+dccebrsma03_disk15     3.25         0.05         0.09     203344     384294
+dccebrsma02_disk15     3.56         0.10         0.16     426518     680522
+dccebrsma01_disk20p1     3.38         0.05         0.14     205369     586285
+dccebrsma03_disk16     0.53         0.00         0.00       8709          0
+dccebrsma05_disk10     3.90         0.10         0.49     425865    2051714
+dccebrsma05_disk6p1     4.45         0.09         0.38     362511    1589686
+dccebrsma02_disk13     3.23         0.04         0.44     179402    1840048
+dccebrsma01_disk21p1     2.79         0.06         0.06     255967     237640
+dccebrsma01_disk19p1     2.41         0.04         0.06     158541     267100
+dccebrsma02_disk14p1     4.97         0.10         0.50     403410    2080737
+dccebrsma02_disk16p1     0.50         0.00         0.00       8174          0
+dccebrsma03_disk14p1     3.67         0.10         0.18     406768     750466
+dccebrsma05_disk10p1     4.33         0.10         0.49     425334    2051714
+dccebrsma02_disk13p1     3.62         0.04         0.44     178872    1840048
+dccebrsma04_disk14     3.16         0.03         0.37     120799    1533830
+dccebrsma01_disk23p1     0.53         0.00         0.00       8256        303
+dccebrsma02_disk17p1     0.53         0.00         0.00       8270        313
+dccebrsma04_disk15     0.53         0.00         0.00       8712          0
+dccebrsma04_disk14p1     3.67         0.03         0.37     120271    1533830
+dccebrsma03_disk16p1     0.50         0.00         0.00       8177          0
+dccebrsma03_disk10p1     3.67         0.13         0.23     566152     960033
+dccebrsma03_disk15p1     3.43         0.05         0.09     202813     384294
+dccebrsma04_disk13     3.19         0.12         0.10     520334     421053
+dccebrsma04_disk16     0.53         0.00         0.00       8704          0
+dccebrsma04_disk17     0.53         0.00         0.00       8704          0
+dccebrsma05_disk12     0.53         0.00         0.00       8706          0
+dccebrsma04_disk18     0.53         0.00         0.00       8703          0
+dccebrsma04_disk19     0.53         0.00         0.00       8703          0
+dccebrsma04_disk17p1     0.50         0.00         0.00       8174          0
+dccebrsma04_disk18p1     0.50         0.00         0.00       8174          0
+dccebrsma04_disk16p1     0.50         0.00         0.00       8175          0
+dccebrsma05_disk12p1     0.50         0.00         0.00       8176          0
+dccebrsma04_disk13p1     3.34         0.12         0.10     519803     421053
+dccebrsma01_disk14p1     4.43         0.09         0.50     379532    2095066
+dccebrsma04_disk15p1     0.50         0.00         0.00       8181          0
+dccebrsma05_disk13     0.53         0.00         0.00       8701          0
+dccebrsma05_disk15     0.53         0.00         0.00       8704          0
+dccebrsma05_disk14     0.53         0.00         0.00       8704          0
+dccebrsma06_disk1     4.36         0.12         0.39     511142    1656375
+dccebrsma06_disk2     4.68         0.12         0.25     506355    1062656
+dccebrsma05_disk16     0.53         0.00         0.00       8707          0
+dccebrsma05_disk11     2.97         0.08         0.21     348425     886934
+dccebrsma06_disk3     3.93         0.10         0.24     427709    1027112
+dccebrsma06_disk7     4.90         0.04         0.44     153294    1851513
+dccebrsma06_disk4     4.13         0.09         0.52     371096    2195559
+dccebrsma06_disk2p1     5.06         0.12         0.25     505825    1062656
+ddccebrsma06_disk8     4.25         0.20         0.15     828103     631015
+dccebrsma07_disk1     4.14         0.05         0.41     206379    1717300
+dccebrsma06_disk6     4.26         0.10         0.26     438461    1094884
+dccebrsma07_disk4     4.58         0.04         0.47     179551    1984491
+dccebrsma07_disk2     6.40         0.27         0.33    1131156    1374956
+dccebrsma05_disk16p1     0.50         0.00         0.00       8176          0
+dccebrsma05_disk11p1     3.21         0.08         0.21     347894     886934
+dccebrsma06_disk3p1     4.29         0.10         0.24     427178    1027112
+dccebrsma06_disk7p1     5.64         0.04         0.44     152762    1851513
+dccebrsma06_disk4p1     4.63         0.09         0.52     370565    2195559
+dccebrsma06_disk6p1     4.70         0.10         0.26     437929    1094884
+ddccebrsma06_disk8p1     4.54         0.20         0.15     827572     631015
+dccebrsma07_disk3     4.33         0.05         0.39     227374    1653299
+dccebrsma07_disk1p1     4.66         0.05         0.41     205847    1717300
+dccebrsma06_disk5     5.63         0.12         0.19     483143     817161
+dccebrsma07_disk7    15.26         0.13         0.43     546045    1799347
+dccebrsma07_disk5     3.54         0.07         0.21     293183     866143
+dccebrsma07_disk4p1     5.25         0.04         0.47     179019    1984491
+dccebrsma08_disk1     1.82         0.01         0.01      28765      60425
+dccebrsma07_disk6     5.49         0.13         0.54     530932    2266386
+dccebrsma08_disk3     2.07         0.01         0.22      22641     933514
+dccebrsma08_disk2     1.06         0.00         0.00      17003        718
+dccebrsma08_disk4     0.95         0.00         0.00      15147        315
+dccebrsma08_disk7     0.74         0.00         0.00      11567      13978
+dccebrsma08_disk5     8.14         0.03         0.00     133079       3992
+dccebrsma08_disk8     1.17         0.00         0.00      18683       5702
+dccebrsma08_disk6     0.85         0.00         0.00      13528       2590
+dccebrsma09_disk3     1.92         0.01         0.00      31059       3215
+dccebrsma09_disk4     1.91         0.01         0.00      31018        351
+dccebrsma09_disk1     1.08         0.00         0.00      17332        341
+dccebrsma09_disk2     3.63         0.01         0.01      58554      45750
+dccebrsma06_disk5p1     5.97         0.12         0.19     482612     817161
+dccebrsma09_disk5     1.49         0.01         0.00      23998       1495
+dccebrsma08_disk1p1     1.82         0.01         0.01      28235      60425
+dccebrsma07_disk3p1     4.91         0.05         0.39     226843    1653299
+dccebrsma07_disk5p1     3.81         0.07         0.21     292652     866143
+dccebrsma07_disk7p1    15.96         0.13         0.43     545514    1799347
+dccebrsma08_disk7p1     0.72         0.00         0.00      11036      13978
+dccebrsma09_disk4p1     1.89         0.01         0.00      30487        351
+dccebrsma09_disk3p1     1.89         0.01         0.00      30528       3215
+dccebrsma07_disk6p1     6.03         0.13         0.54     530401    2266386
+dccebrsma08_disk2p1     1.03         0.00         0.00      16471        718
+dccebrsma09_disk7     1.13         0.00         0.02      17426      65723
+dccebrsma08_disk6p1     0.82         0.00         0.00      12998       2590
+dccebrsma08_disk4p1     0.92         0.00         0.00      14616        315
+dccebrsma04_disk8p1     2.98         0.05         0.30     220814    1261121
+dccebrsma09_disk7p1     1.12         0.00         0.02      16893      65723
+dccebrsma02_disk15p1     3.79         0.10         0.16     425988     680522
+dccebrsma09_disk8     1.22         0.00         0.00      19479       5767
+dccebrsma10_disk2     0.81         0.00         0.00      12892       1551
+dccebrsma10_disk2p1     0.78         0.00         0.00      12362       1551
+dccebrsma09_disk8p1     1.19         0.00         0.00      18948       5767
+dccebrsma04_disk19p1     0.50         0.00         0.00       8173          0
+dccebrsma01_disk22p1     0.50         0.00         0.00       8177          0
+dccebrsma09_disk6     1.90         0.01         0.14      23876     599877
+dccebrsma10_disk1     0.89         0.00         0.00      14189        364
+dccebrsma10_disk3     2.06         0.01         0.00      33294       7477
+dccebrsma10_disk5     1.87         0.01         0.00      30215       6567
+dccebrsma10_disk4     1.15         0.00         0.00      18428       1598
+dccebrsma10_disk6     0.70         0.00         0.00      11205        323
+dccebrsma10_disk7     1.98         0.01         0.00      32064       1462
+mpathc         2507.62        35.71        15.64  149811805   65602513
+dccebrsma10_disk8     2.44         0.01         0.00      39559        318
+dccebrsma10_disk6p1     0.68         0.00         0.00      10675        323
+dccebrsma09_disk6p1     2.03         0.01         0.14      23347     599877
+dccebrsma10_disk4p1     1.12         0.00         0.00      17898       1598
+mpatha           14.73         0.25         0.21    1029160     874895
+dccebrsma10_disk9     1.01         0.00         0.00      16022       6273
+dccebrsma10_disk13     0.53         0.00         0.00       8707          0
+dccebrsma10_disk1p1     0.86         0.00         0.00      13656        364
+dccebrsma10_disk12     0.53         0.00         0.00       8702          0
+mpathcp1      12821.35        35.33        14.76  148189595   61901352
+dccebrsma10_disk14     0.53         0.00         0.00       8702          0
+mpathcp2        324.82         0.39         0.88    1621681    3701160
+dccebrsma11_disk12     2.95         0.07         0.15     284220     635031
+dccebrsma10_disk16     0.53         0.00         0.00       8701          0
+dccebrsma10_disk10     0.53         0.00         0.00       8700          0
+dccebrsma10_disk11     0.53         0.00         0.00       8707          0
+dccebrsma11_disk13     8.57         0.08         0.33     343702    1373917
+dccebrsma11_disk14     5.28         0.05         0.59     226426    2494219
+dccebrsma11_disk19     3.31         0.08         0.17     354109     731430
+dccebrsma10_disk15     0.53         0.00         0.00       8705          0
+dccebrsma12_disk1     5.74         0.13         0.14     543650     595624
+dccebrsma11_disk17     3.90         0.06         0.31     234982    1285625
+dccebrsma12_disk2     5.24         0.17         0.14     733739     599561
+dccebrsma12_disk5     0.53         0.00         0.00       8703          0
+dccebrsma10_disk13p1     0.50         0.00         0.00       8174          0
+mpathap1         62.57         0.25         0.21    1028632     874895
+dccebrsma10_disk14p1     0.50         0.00         0.00       8173          0
+dccebrsma12_disk5p1     0.50         0.00         0.00       8174          0
+dccebrsma10_disk9p1     0.99         0.00         0.00      15493       6273
+dccebrsma11_disk12p1     3.22         0.07         0.15     283692     635031
+dccebrsma11_disk18     3.24         0.07         0.25     285374    1063031
+dccebrsma11_disk14p1     6.38         0.05         0.59     225896    2494219
+dccebrsma11_disk19p1     3.58         0.08         0.17     353579     731430
+dccebrsma11_disk16     4.80         0.04         0.71     176330    2991026
+dccebrsma11_disk15     4.56         0.14         0.27     602978    1145152
+dccebrsma11_disk17p1     4.44         0.06         0.31     234451    1285625
+dccebrsma12_disk3     7.19         0.10         0.99     426716    4161030
+dccebrsma12_disk6     0.53         0.00         0.00       8704          0
+dccebrsma12_disk8     0.53         0.00         0.00       8702          0
+dccebrsma13_disk1     0.53         0.00         0.00       8704          0
+dccebrsma12_disk4     0.53         0.00         0.00       8704          0
+dccebrsma12_disk7     0.53         0.00         0.00       8703          0
+dccebrsma13_disk2     0.53         0.00         0.00       8705          0
+dccebrsma13_disk3     0.53         0.00         0.00       8704          0
+dccebrsma13_disk4     0.53         0.00         0.00       8704          0
+dccebrsma13_disk7     0.53         0.00         0.00       8705          0
+dccebrsma13_disk5     0.53         0.00         0.00       8704          0
+dccebrsma11_disk20     0.73         0.00         0.01      11269      21862
+dccebrsma13_disk6     0.53         0.00         0.00       8705          0
+dccebrsma13_disk8     0.53         0.00         0.00       8706          0
+dccebrsma11_disk21     0.70         0.00         0.00      11138       1873
+dccebrsma12_disk12     0.61         0.00         0.00       9606      10239
+dccebrsma12_disk11     0.85         0.00         0.00      12957      20414
+dccebrsma12_disk13     0.71         0.00         0.00      11234       3357
+dccebrsma12_disk15     0.59         0.00         0.00       9334       5969
+dccebrsma12_disk16     0.64         0.00         0.00      10117        458
+dccebrsma12_disk10     0.62         0.00         0.00       9638      11423
+dccebrsma12_disk7p1     0.50         0.00         0.00       8174          0
+dccebrsma12_disk3p1     8.62         0.10         0.99     426186    4161030
+dccebrsma11_disk18p1     3.52         0.07         0.25     284844    1063031
+dccebrsma13_disk3p1     0.50         0.00         0.00       8175          0
+dccebrsma11_disk20p1     0.71         0.00         0.01      10739      21862
+dccebrsma13_disk2p1     0.50         0.00         0.00       8174          0
+dccebrsma13_disk7p1     0.50         0.00         0.00       8175          0
+dccebrsma12_disk11p1     0.87         0.00         0.00      12427      20414
+dccebrsma12_disk13p1     0.70         0.00         0.00      10702       3357
+dccebrsma11_disk15p1     4.90         0.14         0.27     602449    1145152
+dccebrsma12_disk16p1     0.61         0.00         0.00       9585        458
+dccebrsma12_disk6p1     0.50         0.00         0.00       8172          0
+dccebrsma13_disk4p1     0.50         0.00         0.00       8175          0
+dccebrsma06_disk15     0.99         0.00         0.00      15829        713
+dccebrsma12_disk8p1     0.50         0.00         0.00       8172          0
+dccebrsma12_disk4p1     0.50         0.00         0.00       8174          0
+dccebrsma13_disk8p1     0.50         0.00         0.00       8175          0
+dccebrsma13_disk5p1     0.50         0.00         0.00       8175          0
+dccebrsma12_disk12p1     0.59         0.00         0.00       9074      10239
+dccebrsma12_disk15p1     0.57         0.00         0.00       8803       5969
+dccebrsma11_disk21p1     0.68         0.00         0.00      10608       1873
+dccebrsma06_disk11     0.68         0.00         0.00      10875        345
+dccebrsma13_disk17     0.68         0.00         0.00      10741       4869
+dccebrsma12_disk10p1     0.60         0.00         0.00       9107      11423
+dccebrsma12_disk18     0.70         0.00         0.00      10910      15368
+dccebrsma13_disk6p1     0.50         0.00         0.00       8174          0
+dccebrsma12_disk14     0.53         0.00         0.00       8707          0
+vsp_g700_dccebrsma09_disk10     3.42         0.00         0.69      19596    2906115
+vsp_g700_dccebrsma09_disk13     0.63         0.00         0.00      10164        413
+dccebrsma06_disk10     0.85         0.00         0.01      13317      30250
+dccebrsma13_disk16     1.14         0.00         0.01      18061      23351
+dccebrsma06_disk14     0.87         0.00         0.00      13991        420
+dccebrsma12_disk9     0.57         0.00         0.00       9041        293
+dccebrsma13_disk15     1.90         0.00         0.25      17613    1050687
+dccebrsma06_disk15p1     0.97         0.00         0.00      15299        713
+vsp_g700_dccebrsma09_disk12     7.42         0.00         1.95      20211    8162749
+dccebrsma13_disk14     0.72         0.00         0.00      10804       1261
+dccebrsma12_disk18p1     0.69         0.00         0.00      10381      15368
+vsp_g700_dccebrsma09_disk10p1     4.27         0.00         0.69      19067    2906115
+vsp_g700_dccebrsma09_disk13p1     0.60         0.00         0.00       9633        413
+vsp_g700_dccebrsma09_disk11     2.05         0.01         0.00      33391        431
+dccebrsma06_disk11p1     0.66         0.00         0.00      10343        345
+dccebrsma13_disk17p1     0.65         0.00         0.00      10209       4869
+dccebrsma06_disk10p1     0.83         0.00         0.01      12786      30250
+vsp_g700_dccebrsma07_disk9     0.53         0.00         0.00       8702          0
+dccebrsma13_disk18     0.69         0.00         0.00      10942       1610
+dccebrsma06_disk9     3.14         0.01         0.24      39374    1016254
+vmax_dccebrsma09_disk19     0.30         0.00         0.00       4984          0
+vmax_dccebrsma09_disk17     1.11         0.00         0.00      17814        310
+dccebrsma12_disk17     0.81         0.00         0.00      12872       3581
+vsp_g700_dccebrsma09_disk9     0.72         0.00         0.02      10631      79125
+dccebrsma13_disk16p1     1.12         0.00         0.01      17531      23351
+vsp_g700_dccebrsma07_disk9p1     0.50         0.00         0.00       8172          0
+dccebrsma06_disk1p1     4.77         0.12         0.39     510612    1656375
+dccebrsma05_disk13p1     0.50         0.00         0.00       8173          0
+dccebrsma06_disk9p1     3.36         0.01         0.24      38843    1016254
+vmax_dccebrsma09_disk17p1     1.08         0.00         0.00      17282        310
+dccebrsma13_disk18p1     0.67         0.00         0.00      10411       1610
+vsp_g700_dccebrsma09_disk11p1     2.02         0.01         0.00      32861        431
+dccebrsma05_disk14p1     0.50         0.00         0.00       8175          0
+dccebrsma12_disk17p1     0.78         0.00         0.00      12342       3581
+vsp_g700_dccebrsma09_disk9p1     0.72         0.00         0.02      10101      79125
+dccebrsma09_disk2p1     3.61         0.01         0.01      58023      45750
+dccebrsma05_disk15p1     0.50         0.00         0.00       8174          0
+dccebrsma07_disk2p1     6.82         0.27         0.33    1130624    1374956
+dccebrsma10_disk5p1     1.85         0.01         0.00      29684       6567
+dccebrsma08_disk3p1     2.27         0.01         0.22      22109     933514
+dccebrsma08_disk5p1     8.12         0.03         0.00     132548       3992
+dccebrsma09_disk1p1     1.05         0.00         0.00      16801        341
+dccebrsma09_disk5p1     1.46         0.01         0.00      23465       1495
+dccebrsma10_disk7p1     1.96         0.01         0.00      31534       1462
+dccebrsma10_disk8p1     2.41         0.01         0.00      39031        318
+dccebrsma08_disk8p1     1.15         0.00         0.00      18151       5702
+dccebrsma10_disk3p1     2.03         0.01         0.00      32764       7477
+dccebrsma10_disk11p1     0.50         0.00         0.00       8176          0
+dccebrsma10_disk12p1     0.50         0.00         0.00       8173          0
+dccebrsma11_disk13p1     8.98         0.08         0.33     343174    1373917
+dccebrsma10_disk15p1     0.50         0.00         0.00       8174          0
+dccebrsma10_disk16p1     0.50         0.00         0.00       8171          0
+dccebrsma12_disk1p1     6.09         0.13         0.14     543120     595624
+dccebrsma10_disk10p1     0.50         0.00         0.00       8172          0
+dccebrsma12_disk2p1     5.56         0.17         0.14     733209     599561
+dccebrsma11_disk16p1     5.55         0.04         0.71     175799    2991026
+dccebrsma13_disk1p1     0.50         0.00         0.00       8173          0
+dccebrsma12_disk14p1     0.50         0.00         0.00       8175          0
+dccebrsma13_disk14p1     0.71         0.00         0.00      10275       1261
+dccebrsma13_disk15p1     2.16         0.00         0.25      17084    1050687
+dccebrsma06_disk14p1     0.85         0.00         0.00      13462        420
+vsp_g700_dccebrsma09_disk12p1     9.79         0.00         1.95      19680    8162749
+dccebrsma12_disk9p1     0.54         0.00         0.00       8511        293
+vg01-lv_simpana     2.29         0.02         0.01      73985      26796
+vg01-lv_indexcache    59.98         0.23         0.20     953120     848098
+vg02-lv_gddb-real 12821.05        35.33        14.76  148188410   61901351
+vg02-lv_gddb  10317.64        25.55        14.76  107166719   61901351
+vg02-DDBSnap_3264598123-cow     0.00         0.00         0.00         47          0
+vg02-DDBSnap_3264598123     0.58         0.00         0.00       9520          0
+vg00-lv_varlogaudit     0.19         0.00         0.00       2868        323
+vg00-lv_tmp       0.79         0.00         0.00       3377       9560
+vg00-lv_var       5.97         0.06         0.01     244950      51346
+vg00-lv_home      0.44         0.00         0.00       2834       4350
+vg00-lv_opt       1.20         0.01         0.00      38385       4579
+vg00-lv_varlog     3.38         0.00         0.01      17252      48966
+vg00-lv_usr       1.57         0.01         0.00      46436       8559
+sdhc              1.90         0.04         0.20     188639     831551
+sdhd              1.45         0.02         0.10      99599     407871
+sdhe              2.02         0.04         0.18     151903     759093
+sdhf              1.25         0.01         0.17      61468     727965
+sdhg              1.83         0.06         0.08     245465     342593
+sdhh              2.12         0.04         0.29     159000    1218927
+sdhi              1.83         0.03         0.07     112664     309520
+sdhj              1.64         0.03         0.19     126193     798865
+sdhk              1.65         0.06         0.07     260252     279415
+sdhl              2.25         0.05         0.32     200944    1344889
+sdhm              2.76         0.03         0.45     122171    1889052
+sdhn              1.40         0.03         0.15     104974     611060
+sdho              2.86         0.07         0.41     279949    1731344
+sdhp              1.21         0.03         0.06     141702     254023
+sdhq              1.56         0.06         0.13     232944     541546
+sdhr              1.46         0.01         0.22      62773     908673
+sdhs              2.00         0.05         0.25     190101    1047541
+sdht              2.38         0.09         0.24     392361    1025297
+sdhu              1.36         0.02         0.09      99412     367865
+sdhv              1.35         0.02         0.08      97878     327555
+sdhw              1.96         0.03         0.24     131639    1009278
+sdhx              1.62         0.06         0.12     263427     523420
+sdhy              1.51         0.02         0.19      83460     803582
+sdhz              1.39         0.03         0.07     122289     291852
+sdia              1.63         0.02         0.22      89751     919920
+sdib              1.87         0.05         0.18     205999     773946
+sdic              1.71         0.07         0.11     283291     480036
+sdid              1.33         0.05         0.05     206518     195001
+sdie              1.72         0.09         0.06     360212     271593
+sdif              1.47         0.04         0.15     151424     632384
+sdig              1.38         0.03         0.15     110689     630546
+sdih              1.28         0.02         0.13      99554     550192
+sdii              2.73         0.12         0.26     502535    1070377
+sdij              1.27         0.04         0.07     163124     289894
+sdik              1.83         0.04         0.16     152368     673909
+sdil              2.06         0.04         0.19     181545     794826
+sdim              1.85         0.08         0.11     352424     475066
+sdin              1.86         0.02         0.33      84305    1388257
+sdio              1.21         0.03         0.04     117722     147147
+sdip              1.97         0.05         0.24     212960    1025806
+sdiq              0.22         0.00         0.00       3673          0
+sdir              1.16         0.02         0.03      79588     133526
+sdis              1.58         0.02         0.07     103040     293283
+sdit              1.36         0.03         0.03     128286     118763
+sdiu              0.27         0.00         0.00       4401          0
+sdiv              0.29         0.00         0.00       4442        151
+sdiw              2.24         0.05         0.25     202019    1040361
+sdix              1.80         0.05         0.08     213302     340292
+sdiy              0.27         0.00         0.00       4402          0
+sdiz              0.29         0.00         0.00       4450        157
+sdja              1.72         0.05         0.09     203638     375286
+sdjb              1.65         0.02         0.05     101725     192138
+sdjc              0.27         0.00         0.00       4406          0
+sdjd              1.61         0.06         0.05     260272     210558
+sdje              1.61         0.01         0.18      60447     766985
+sdjf              0.27         0.00         0.00       4409          0
+sdjg              0.27         0.00         0.00       4403          0
+sdjh              0.27         0.00         0.00       4403          0
+sdji              0.27         0.00         0.00       4405          0
+sdjj              0.27         0.00         0.00       4403          0
+sdjk              1.51         0.04         0.11     174268     443442
+sdjl              0.27         0.00         0.00       4405          0
+sdjm              0.27         0.00         0.00       4402          0
+sdjn              0.27         0.00         0.00       4405          0
+sdjo              0.27         0.00         0.00       4405          0
+sdjp              0.27         0.00         0.00       4406          0
+sdjq              2.20         0.06         0.20     255550     828115
+sdjr              2.37         0.06         0.13     253177     531361
+sdjs              1.99         0.05         0.12     213949     513721
+sdjt              2.09         0.04         0.26     185622    1097855
+sdju              2.85         0.06         0.10     241579     408501
+sdjv              2.16         0.05         0.13     219278     547462
+sdjx              2.15         0.10         0.08     414120     315508
+sdjw              2.50         0.02         0.22      76714     925575
+sdjy              2.11         0.02         0.20     103265     858692
+sdjz              3.23         0.13         0.16     565595     687386
+sdka              2.21         0.03         0.20     113703     826667
+sdkb              2.33         0.02         0.24      89874     992411
+sdkc              1.80         0.03         0.10     146709     433190
+sdkd              2.77         0.06         0.27     265479    1133207
+sdke              7.68         0.07         0.21     273009     899498
+sdkf              0.92         0.00         0.01      14434      30235
+sdkg              0.54         0.00         0.00       8553        357
+sdkh              1.05         0.00         0.11      11372     466826
+sdki              0.48         0.00         0.00       7625        157
+sdkj              4.08         0.02         0.00      66591       2000
+sdkk              0.43         0.00         0.00       6815       1285
+sdkl              0.38         0.00         0.00       5835       6977
+sdkm              0.59         0.00         0.00       9392       2874
+sdkn              0.55         0.00         0.00       8717        169
+sdko              1.82         0.01         0.01      29327      22876
+sdkp              0.97         0.00         0.00      15581       1598
+sdkq              0.96         0.00         0.00      15559        176
+sdkr              0.75         0.00         0.00      12050        746
+sdks              0.96         0.00         0.07      11988     299992
+sdkt              0.57         0.00         0.01       8764      32875
+sdku              0.62         0.00         0.00       9788       2866
+sdkv              0.45         0.00         0.00       7144        181
+sdkw              0.41         0.00         0.00       6496        766
+sdkx              1.04         0.00         0.00      16700       3736
+sdky              0.58         0.00         0.00       9263        800
+sdkz              0.94         0.00         0.00      15158       3265
+sdla              0.36         0.00         0.00       5654        161
+sdlb              1.00         0.00         0.00      16084        727
+sdlc              1.22         0.00         0.00      19830        158
+sdld              0.05         0.00         0.00        863          0
+sdle              0.05         0.00         0.00        862          0
+sdlf              0.05         0.00         0.00        862          0
+sdlg              0.05         0.00         0.00        862          0
+sdlh              0.05         0.00         0.00        863          0
+sdli              0.05         0.00         0.00        862          0
+sdlj              0.05         0.00         0.00        862          0
+sdlk              0.05         0.00         0.00        861          0
+sdll              0.05         0.00         0.00        862          0
+sdlm              0.05         0.00         0.00        862          0
+sdln              0.05         0.00         0.00        862          0
+sdlo              0.05         0.00         0.00        862          0
+sdlp              0.05         0.00         0.00        863          0
+sdlq              0.05         0.00         0.00        862          0
+sdlr              0.05         0.00         0.00        862          0
+sdls              0.05         0.00         0.00        862          0
+sdlt              0.05         0.00         0.00        862          0
+sdlu              0.05         0.00         0.00        863          0
+sdlv              0.05         0.00         0.00        863          0
+sdlw              0.05         0.00         0.00        863          0
+sdlx              0.05         0.00         0.00        853          0
+sdly              0.05         0.00         0.00        852          0
+sdlz              0.05         0.00         0.00        852          0
+sdma              0.05         0.00         0.00        853          0
+sdmb              0.05         0.00         0.00        852          0
+sdmc              0.05         0.00         0.00        853          0
+sdmd              0.05         0.00         0.00        852          0
+sdme              0.05         0.00         0.00        853          0
+sdmf              0.05         0.00         0.00        851          0
+sdmg              0.05         0.00         0.00        852          0
+sdmh              0.05         0.00         0.00        852          0
+sdmi              0.05         0.00         0.00        851          0
+sdmj              0.05         0.00         0.00        849          0
+sdmk              0.05         0.00         0.00        851          0
+sdml              0.05         0.00         0.00        850          0
+sdmm              0.05         0.00         0.00        850          0
+sdmn              0.05         0.00         0.00        849          0
+sdmo              0.05         0.00         0.00        851          0
+sdmp              0.05         0.00         0.00        852          0
+sdmq              0.05         0.00         0.00        852          0
+sdmr              0.51         0.00         0.00       8061       3127
+sdms              0.27         0.00         0.00       4399          0
+sdmt              0.27         0.00         0.00       4404          0
+sdmu              0.27         0.00         0.00       4400          0
+sdmv              0.27         0.00         0.00       4404          0
+sdmw              0.27         0.00         0.00       4402          0
+sdmx              0.27         0.00         0.00       4402          0
+sdmy              0.27         0.00         0.00       4399          0
+sdmz              1.51         0.03         0.08     142184     317519
+sdna              4.31         0.04         0.16     171866     687104
+sdnb              2.71         0.03         0.30     113267    1251132
+sdnc              2.31         0.07         0.14     301584     572689
+sdnd              2.44         0.02         0.36      88225    1495460
+sdne              1.99         0.03         0.15     117533     642821
+sdnf              1.64         0.03         0.13     142796     531517
+sdng              1.68         0.04         0.09     177055     365679
+sdnh              2.92         0.06         0.07     271942     297776
+sdni              2.65         0.09         0.07     366908     299770
+sdnj              3.67         0.05         0.50     213433    2081134
+sdnk              0.27         0.00         0.00       4401          0
+sdnl              0.27         0.00         0.00       4402          0
+sdnm              0.27         0.00         0.00       4402          0
+sdnn              0.27         0.00         0.00       4401          0
+sdno              0.27         0.00         0.00       4400          0
+sdnp              0.27         0.00         0.00       4402          0
+sdnq              0.27         0.00         0.00       4401          0
+sdnr              0.27         0.00         0.00       4403          0
+sdns              0.27         0.00         0.00       4402          0
+sdnt              0.27         0.00         0.00       4404          0
+sdnu              0.27         0.00         0.00       4403          0
+sdnv              0.27         0.00         0.00       4405          0
+sdnw              0.27         0.00         0.00       4404          0
+sdnx              0.36         0.00         0.00       5620        935
+sdny              0.37         0.00         0.00       5685      10928
+sdnz              0.29         0.00         0.00       4572        146
+sdoa              0.32         0.00         0.00       4871       5716
+sdob              0.43         0.00         0.00       6530      10213
+sdoc              0.31         0.00         0.00       4854       5116
+sdod              0.36         0.00         0.00       5669       1683
+sdoe              0.27         0.00         0.00       4404          0
+sdof              0.30         0.00         0.00       4717       2986
+sdog              0.33         0.00         0.00       5109        231
+sdoh              0.41         0.00         0.00       6487       1784
+sdoi              0.36         0.00         0.00       5505       7677
+sdoj              0.16         0.00         0.00       2542          0
+sdok              0.50         0.00         0.00       7964        354
+sdol              0.35         0.00         0.00       5488        172
+sdom              1.58         0.00         0.12      19739     508093
+sdon              0.44         0.00         0.00       7046        209
+sdoo              0.43         0.00         0.00       6708      15124
+sdop              0.37         0.00         0.00       5451        629
+sdoq              0.97         0.00         0.13       8855     525459
+sdor              0.58         0.00         0.00       9079      11676
+sdos              0.35         0.00         0.00       5422       2434
+sdot              0.35         0.00         0.00       5522        808
+sdou              0.56         0.00         0.00       8957        154
+sdov              0.37         0.00         0.01       5366      39556
+sdow              1.75         0.00         0.35       9849    1453097
+sdox              1.03         0.00         0.00      16746        211
+sdoy              3.81         0.00         0.97      10158    4081066
+sdoz              0.32         0.00         0.00       5133        206
+sdpa              0.27         0.00         0.00       4402          0
+clusvg12_5-lv12_5     0.20         0.00         0.00       3323          0
+clusvg11_17-lv11_17     4.06         0.05         0.31     229601    1285625
+clusvg11_14-lv11_14     5.96         0.05         0.59     221045    2494219
+clusvg11_19-lv11_19     3.23         0.08         0.17     348728     731430
+clusvg10_14-lv10_14     0.20         0.00         0.00       3322          0
+clusvg11_12-lv11_12     2.87         0.07         0.15     278842     635031
+clusvg10_13-lv10_13     0.20         0.00         0.00       3324          0
+clusvg10_9-lv10_9     0.68         0.00         0.00      10643       6273
+clusvg10_6-lv10_6     0.38         0.00         0.00       5824        323
+clusvg10_4-lv10_4     0.82         0.00         0.00      13048       1598
+clusvg10_1-lv10_1     0.56         0.00         0.00       8805        364
+clusvg9_6-lv9_6     1.72         0.00         0.14      18496     599877
+clusvg4_19-lv4_19     0.20         0.00         0.00       3323          0
+clusvg9_8-lv9_8     0.89         0.00         0.00      14097       5767
+clusvg10_2-lv10_2     0.48         0.00         0.00       7512       1551
+clusvg2_15-lv2_15     3.46         0.10         0.16     421138     680522
+clusvg9_7-lv9_7     0.82         0.00         0.02      12043      65723
+clusvg1_22-lv1_22     0.20         0.00         0.00       3326          0
+clusvg4_8-lv4_8     2.66         0.05         0.30     215964    1261121
+clusvg9_3-lv9_3     1.59         0.01         0.00      25677       3215
+clusvg9_4-lv9_4     1.59         0.01         0.00      25637        351
+clusvg8_6-lv8_6     0.52         0.00         0.00       8148       2590
+clusvg8_7-lv8_7     0.42         0.00         0.00       6185      13978
+clusvg8_4-lv8_4     0.62         0.00         0.00       9766        315
+clusvg8_2-lv8_2     0.73         0.00         0.00      11621        718
+clusvg7_6-lv7_6     5.69         0.13         0.54     525551    2266386
+clusvg7_7-lv7_7    15.57         0.13         0.43     540664    1799347
+clusvg7_5-lv7_5     3.47         0.07         0.21     287801     866143
+clusvg7_3-lv7_3     4.52         0.05         0.39     221993    1653299
+clusvg8_1-lv8_1     1.52         0.01         0.01      23384      60425
+clusvg6_5-lv6_5     5.62         0.11         0.19     477762     817161
+clusvg7_4-lv7_4     4.89         0.04         0.47     174168    1984491
+clusvg7_1-lv7_1     4.30         0.05         0.41     200997    1717300
+clusvg6_8-lv6_8     4.20         0.20         0.15     822721     631015
+clusvg6_6-lv6_6     4.34         0.10         0.26     433078    1094884
+clusvg6_4-lv6_4     4.29         0.09         0.52     365714    2195559
+clusvg6_7-lv6_7     5.25         0.04         0.44     147911    1851513
+clusvg6_3-lv6_3     3.94         0.10         0.24     422328    1027112
+clusvg5_11-lv5_11     2.87         0.08         0.21     343043     886934
+clusvg5_16-lv5_16     0.20         0.00         0.00       3325          0
+clusvg6_2-lv6_2     4.70         0.12         0.25     500975    1062656
+clusvg4_13-lv4_13     3.02         0.12         0.10     514953     421053
+clusvg4_16-lv4_16     0.20         0.00         0.00       3324          0
+clusvg5_12-lv5_12     0.20         0.00         0.00       3325          0
+clusvg4_18-lv4_18     0.20         0.00         0.00       3323          0
+clusvg4_17-lv4_17     0.20         0.00         0.00       3324          0
+clusvg3_10-lv3_10     3.34         0.13         0.23     561302     960033
+clusvg1_14-lv1_14     4.09         0.09         0.50     374682    2095066
+clusvg4_15-lv4_15     0.20         0.00         0.00       3330          0
+clusvg4_14-lv4_14     3.31         0.03         0.37     115421    1533830
+clusvg2_13-lv2_13     3.28         0.04         0.44     174022    1840048
+clusvg5_10-lv5_10     3.99         0.10         0.49     420484    2051714
+clusvg3_15-lv3_15     3.09         0.05         0.09     197963     384294
+clusvg3_14-lv3_14     3.32         0.10         0.18     401917     750466
+clusvg3_16-lv3_16     0.20         0.00         0.00       3326          0
+clusvg2_16-lv2_16     0.20         0.00         0.00       3323          0
+clusvg2_17-lv2_17     0.23         0.00         0.00       3419        313
+clusvg1_23-lv1_23     0.23         0.00         0.00       3405        303
+clusvg2_14-lv2_14     4.62         0.10         0.50     398560    2080737
+clusvg1_21-lv1_21     2.46         0.06         0.06     251117     237640
+clusvg1_19-lv1_19     2.08         0.04         0.06     153691     267100
+clusvg5_6-lv5_6     4.12         0.09         0.38     357661    1589686
+clusvg1_20-lv1_20     3.03         0.05         0.14     200519     586285
+clusvg12_9-lv12_9     0.24         0.00         0.00       3661        293
+clusvg9_12-lv9_12     9.31         0.00         1.95      14830    8162749
+clusvg06_14-lv06_14     0.55         0.00         0.00       8611        420
+clusvg13_15-lv13_15     1.83         0.00         0.25      12233    1050687
+clusvg13_14-lv13_14     0.40         0.00         0.00       5424       1261
+clusvg12_14-lv12_14     0.20         0.00         0.00       3325          0
+clusvg13_1-lv13_1     0.20         0.00         0.00       3323          0
+clusvg11_16-lv11_16     5.18         0.04         0.71     170949    2991026
+clusvg5_9-lv5_9     2.18         0.05         0.07     229905     294434
+clusvg12_2-lv12_2     5.20         0.17         0.14     728358     599561
+clusvg5_7-lv5_7     3.62         0.17         0.23     699261     950121
+clusvg10_10-lv10_10     0.20         0.00         0.00       3322          0
+clusvg3_13-lv3_13     2.84         0.07         0.30     297277    1265031
+clusvg12_1-lv12_1     5.70         0.13         0.14     538269     595624
+clusvg5_8-lv5_8     3.84         0.04         0.66     163059    2776456
+clusvg10_15-lv10_15     0.20         0.00         0.00       3324          0
+clusvg4_9-lv4_9     2.42         0.05         0.26     193659    1100238
+clusvg10_16-lv10_16     0.20         0.00         0.00       3321          0
+clusvg4_11-lv4_11     2.36         0.08         0.14     320727     579852
+clusvg11_13-lv11_13     8.64         0.08         0.33     338323    1373917
+clusvg4_10-lv4_10     5.62         0.24         0.51     999537    2140593
+clusvg10_12-lv10_12     0.20         0.00         0.00       3322          0
+clusvg4_12-lv4_12     3.59         0.07         0.32     299231    1347623
+clusvg10_11-lv10_11     0.20         0.00         0.00       3325          0
+clusvg10_8-lv10_8     2.11         0.01         0.00      34181        318
+clusvg10_7-lv10_7     1.65         0.01         0.00      26683       1462
+clusvg10_3-lv10_3     1.73         0.01         0.00      27914       7477
+clusvg10_5-lv10_5     1.55         0.01         0.00      24833       6567
+clusvg9_2-lv9_2     3.31         0.01         0.01      53173      45750
+clusvg9_5-lv9_5     1.16         0.00         0.00      18615       1495
+clusvg9_1-lv9_1     0.75         0.00         0.00      11951        341
+clusvg8_8-lv8_8     0.85         0.00         0.00      13301       5702
+clusvg8_5-lv8_5     7.82         0.03         0.00     127697       3992
+clusvg8_3-lv8_3     1.95         0.00         0.22      17259     933514
+clusvg7_2-lv7_2     6.47         0.27         0.33    1125773    1374956
+clusvg2_9-lv2_9     3.98         0.06         0.48     257878    2018441
+clusvg5_13-lv5_13     0.20         0.00         0.00       3322          0
+clusvg3_11-lv3_11     2.45         0.10         0.09     407739     389966
+clusvg6_1-lv6_1     4.43         0.12         0.39     505762    1656375
+clusvg3_12-lv3_12     3.26         0.17         0.13     715029     543189
+clusvg5_15-lv5_15     0.20         0.00         0.00       3324          0
+clusvg3_9-lv3_9     3.71         0.10         0.37     406525    1547866
+clusvg5_14-lv5_14     0.20         0.00         0.00       3324          0
+clusvg2_12-lv2_12     2.59         0.06         0.14     239217     583694
+clusvg9_9-lv9_9     0.42         0.00         0.02       5250      79125
+clusvg2_10-lv2_10     3.13         0.12         0.25     521370    1046504
+clusvg13_18-lv13_18     0.36         0.00         0.00       5560       1610
+clusvg2_11-lv2_11     3.01         0.04         0.38     161411    1606928
+clusvg12_17-lv12_17     0.48         0.00         0.00       7492       3581
+clusvg1_17-lv1_17     2.52         0.05         0.16     190292     655164
+clusvg06_12-lv06_12     0.78         0.00         0.00      12432        310
+clusvg06_09-lv06_09     3.04         0.01         0.24      33993    1016254
+clusvg7_9-lv7_9     0.20         0.00         0.00       3322          0
+clusvg9_11-lv9_11     1.72         0.01         0.00      28011        431
+clusvg13_16-lv13_16     0.82         0.00         0.01      12680      23351
+clusvg1_16-lv1_16     2.57         0.05         0.18     193328     735701
+clusvg1_15-lv1_15     4.88         0.19         0.49     779154    2050652
+clusvg4_7-lv4_7     2.70         0.05         0.29     204438    1221810
+clusvg9_13-lv9_13     0.30         0.00         0.00       4783        413
+clusvg1_13-lv1_13     2.91         0.03         0.43     120098    1817492
+clusvg06_10-lv06_10     0.53         0.00         0.01       7935      30250
+clusvg5_4-lv5_4     2.22         0.07         0.12     277959     508163
+clusvg9_10-lv9_10     3.90         0.00         0.69      14216    2906115
+clusvg5_5-lv5_5     3.03         0.11         0.26     460402    1083059
+clusvg06_11-lv06_11     0.35         0.00         0.00       5492        345
+clusvg13_17-lv13_17     0.35         0.00         0.00       5358       4869
+clusvg5_3-lv5_3     5.97         0.13         0.83     554383    3462545
+clusvg12_18-lv12_18     0.38         0.00         0.00       5530      15368
+clusvg4_6-lv4_6     6.01         0.06         0.90     238864    3777869
+clusvg4_5-lv4_5     4.66         0.09         0.64     396443    2690127
+clusvg3_8-lv3_8     3.15         0.12         0.13     514998     558710
+clusvg3_6-lv3_6     3.53         0.05         0.15     219913     618992
+clusvg06_15-lv06_15     0.66         0.00         0.00      10449        713
+clusvg3_7-lv3_7     3.26         0.06         0.38     246931    1597726
+clusvg2_7-lv2_7     3.50         0.12         0.16     485423     685210
+clusvg2_8-lv2_8     4.43         0.07         0.58     312417    2437604
+clusvg2_6-lv2_6     2.43         0.03         0.35     117478    1456003
+clusvg1_11-lv1_11     2.78         0.05         0.19     193695     815628
+clusvg1_12-lv1_12     4.07         0.07         0.36     298434    1518027
+clusvg1_10-lv1_10     3.85         0.09         0.40     371791    1663101
+clusvg11_9-lv11_9     1.43         0.01         0.00      22784      12424
+clusvg13_6-lv13_6     0.20         0.00         0.00       3323          0
+clusvg11_15-lv11_15     4.56         0.14         0.27     597598    1145152
+clusvg12_10-lv12_10     0.30         0.00         0.00       4257      11423
+clusvg11_7-lv11_7     0.85         0.00         0.00      13404      17211
+clusvg12_16-lv12_16     0.31         0.00         0.00       4734        458
+clusvg12_15-lv12_15     0.27         0.00         0.00       3952       5969
+clusvg11_21-lv11_21     0.38         0.00         0.00       5758       1873
+clusvg11_10-lv11_10     1.13         0.00         0.00      18250        643
+clusvg13_5-lv13_5     0.20         0.00         0.00       3324          0
+clusvg12_12-lv12_12     0.29         0.00         0.00       4224      10239
+clusvg11_1-lv11_1     1.99         0.01         0.10      26238     400535
+clusvg12_13-lv12_13     0.39         0.00         0.00       5852       3357
+clusvg11_5-lv11_5     0.54         0.00         0.00       8480        691
+clusvg13_8-lv13_8     0.20         0.00         0.00       3324          0
+clusvg12_11-lv12_11     0.56         0.00         0.00       7577      20414
+clusvg11_3-lv11_3     2.87         0.01         0.24      30129     992450
+clusvg13_7-lv13_7     0.20         0.00         0.00       3324          0
+clusvg13_2-lv13_2     0.20         0.00         0.00       3324          0
+clusvg12_4-lv12_4     0.20         0.00         0.00       3323          0
+clusvg11_8-lv11_8     1.24         0.00         0.00      19941       3433
+clusvg11_20-lv11_20     0.41         0.00         0.01       5889      21862
+clusvg12_6-lv12_6     0.20         0.00         0.00       3322          0
+clusvg13_4-lv13_4     0.20         0.00         0.00       3325          0
+clusvg13_3-lv13_3     0.20         0.00         0.00       3325          0
+clusvg11_2-lv11_2     2.55         0.01         0.30      21689    1265100
+clusvg12_3-lv12_3     8.19         0.10         0.99     421336    4161030
+clusvg11_18-lv11_18     3.18         0.07         0.25     279994    1063031
+clusvg11_11-lv11_11     0.91         0.00         0.00      14732       1345
+clusvg12_7-lv12_7     0.20         0.00         0.00       3324          0
+clusvg12_8-lv12_8     0.20         0.00         0.00       3322          0
+clusvg11_4-lv11_4     1.67         0.01         0.00      27014        977
+vg02-DDBSnap_3187622139-cow     0.73         0.00         0.00          3      11923
+vg02-DDBSnap_3187622139     5.94         0.02         0.00      97371          0
+
+Filesystem:               rMB_nor/s    wMB_nor/s    rMB_dir/s    wMB_dir/s    rMB_svr/s    wMB_svr/s     ops/s    rops/s    wops/s
+
+
+
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vg00-lv_root
+                      2.0G  605M  1.3G  33% /
+tmpfs                  63G  1.1G   62G   2% /dev/shm
+/dev/sdep1            488M  137M  327M  30% /boot
+/dev/mapper/vg00-lv_home
+                      4.9G  566M  4.1G  12% /home
+/dev/mapper/vg00-lv_opt
+                      7.1G  5.3G  1.5G  79% /opt
+/dev/mapper/vg00-lv_tmp
+                      2.0G   39M  1.8G   3% /tmp
+/dev/mapper/vg00-lv_usr
+                      4.8G  2.9G  1.7G  64% /usr
+/dev/mapper/vg00-lv_var
+                       10G  6.6G  3.0G  69% /var
+/dev/mapper/vg00-lv_varlog
+                      5.1G  3.0G  1.8G  63% /var/log
+/dev/mapper/vg00-lv_varlogaudit
+                      976M   30M  896M   4% /var/log/audit
+/dev/mapper/vg01-lv_simpana
+                      504G  3.4G  475G   1% /opt/simpana
+/dev/mapper/vg01-lv_indexcache
+                      504G  126G  353G  27% /IndexCache
+/dev/mapper/vg02-lv_gddb
+                      1.5T 1016G  387G  73% /DCCMA06GDDB/DDB
+/dev/mapper/clusvg1_10-lv1_10
+                      8.0T  6.5T  1.6T  81% /DCCMA01_Disk10
+/dev/mapper/clusvg1_11-lv1_11
+                      8.0T  5.4T  2.7T  67% /DCCMA01_Disk11
+/dev/mapper/clusvg1_12-lv1_12
+                      8.0T  6.7T  1.4T  83% /DCCMA01_Disk12
+/dev/mapper/clusvg1_13-lv1_13
+                      8.0T  5.8T  2.3T  72% /DCCMA01_Disk13
+/dev/mapper/clusvg1_14-lv1_14
+                      8.0T  6.5T  1.6T  82% /DCCMA01_Disk14
+/dev/mapper/clusvg1_15-lv1_15
+                      8.0T  6.1T  2.0T  77% /DCCMA01_Disk15
+/dev/mapper/clusvg1_16-lv1_16
+                      8.0T  6.3T  1.8T  79% /DCCMA01_Disk16
+/dev/mapper/clusvg1_17-lv1_17
+                      8.0T  4.1T  4.0T  51% /DCCMA01_Disk17
+/dev/mapper/clusvg2_6-lv2_6
+                      8.0T  4.4T  3.7T  55% /DCCMA02_Disk6
+/dev/mapper/clusvg2_7-lv2_7
+                      8.0T  5.7T  2.4T  71% /DCCMA02_Disk7
+/dev/mapper/clusvg2_8-lv2_8
+                      8.0T  5.7T  2.4T  71% /DCCMA02_Disk8
+/dev/mapper/clusvg2_9-lv2_9
+                      8.0T  6.6T  1.5T  83% /DCCMA02_Disk9
+/dev/mapper/clusvg2_10-lv2_10
+                      8.0T  6.1T  2.0T  77% /DCCMA02_Disk10
+/dev/mapper/clusvg2_11-lv2_11
+                      8.0T  5.9T  2.2T  73% /DCCMA02_Disk11
+/dev/mapper/clusvg2_12-lv2_12
+                      8.0T  6.0T  2.1T  75% /DCCMA02_Disk12
+/dev/mapper/clusvg2_13-lv2_13
+                      8.0T  6.6T  1.5T  82% /DCCMA02_Disk13
+/dev/mapper/clusvg3_6-lv3_6
+                      8.0T  7.0T  1.1T  87% /DCCMA03_Disk6
+/dev/mapper/clusvg3_7-lv3_7
+                      8.0T  6.3T  1.8T  79% /DCCMA03_Disk7
+/dev/mapper/clusvg3_8-lv3_8
+                      8.0T  6.4T  1.7T  80% /DCCMA03_Disk8
+/dev/mapper/clusvg3_9-lv3_9
+                      8.0T  5.7T  2.4T  71% /DCCMA03_Disk9
+/dev/mapper/clusvg3_10-lv3_10
+                      8.0T  5.5T  2.6T  68% /DCCMA03_Disk10
+/dev/mapper/clusvg3_11-lv3_11
+                      8.0T  6.0T  2.1T  75% /DCCMA03_Disk11
+/dev/mapper/clusvg3_12-lv3_12
+                      8.0T  7.1T  953G  89% /DCCMA03_Disk12
+/dev/mapper/clusvg3_13-lv3_13
+                      8.0T  5.8T  2.3T  73% /DCCMA03_Disk13
+/dev/mapper/clusvg4_5-lv4_5
+                      8.0T  5.5T  2.6T  68% /DCCMA04_Disk5
+/dev/mapper/clusvg4_6-lv4_6
+                      8.0T  5.8T  2.3T  72% /DCCMA04_Disk6
+/dev/mapper/clusvg4_7-lv4_7
+                      8.0T  6.4T  1.7T  80% /DCCMA04_Disk7
+/dev/mapper/clusvg4_8-lv4_8
+                      8.0T  5.3T  2.8T  67% /DCCMA04_Disk8
+/dev/mapper/clusvg4_9-lv4_9
+                      8.0T  5.0T  3.1T  62% /DCCMA04_Disk9
+/dev/mapper/clusvg4_10-lv4_10
+                      8.0T  6.5T  1.6T  81% /DCCMA04_Disk10
+/dev/mapper/clusvg4_11-lv4_11
+                      8.0T  4.3T  3.8T  54% /DCCMA04_Disk11
+/dev/mapper/clusvg4_12-lv4_12
+                      8.0T  7.1T  953G  89% /DCCMA04_Disk12
+/dev/mapper/clusvg5_3-lv5_3
+                      8.0T  5.1T  3.0T  64% /DCCMA05_Disk3
+/dev/mapper/clusvg5_4-lv5_4
+                      8.0T  5.9T  2.2T  73% /DCCMA05_Disk4
+/dev/mapper/clusvg5_5-lv5_5
+                      8.0T  6.4T  1.7T  80% /DCCMA05_Disk5
+/dev/mapper/clusvg5_6-lv5_6
+                      8.0T  7.1T  968G  89% /DCCMA05_Disk6
+/dev/mapper/clusvg5_7-lv5_7
+                      8.0T  6.5T  1.6T  81% /DCCMA05_Disk7
+/dev/mapper/clusvg5_8-lv5_8
+                      8.0T  6.6T  1.5T  82% /DCCMA05_Disk8
+/dev/mapper/clusvg5_9-lv5_9
+                      8.0T  8.0T  2.5G 100% /DCCMA05_Disk9
+/dev/mapper/clusvg5_10-lv5_10
+                      8.0T  5.1T  3.0T  64% /DCCMA05_Disk10
+/dev/mapper/clusvg6_1-lv6_1
+                      8.0T  5.0T  3.1T  62% /DCCMA06_Disk1
+/dev/mapper/clusvg6_2-lv6_2
+                      8.0T  4.6T  3.5T  57% /DCCMA06_Disk2
+/dev/mapper/clusvg6_3-lv6_3
+                      8.0T  4.2T  3.9T  52% /DCCMA06_Disk3
+/dev/mapper/clusvg6_4-lv6_4
+                      8.0T  5.9T  2.2T  74% /DCCMA06_Disk4
+/dev/mapper/clusvg6_5-lv6_5
+                      8.0T  6.7T  1.4T  83% /DCCMA06_Disk5
+/dev/mapper/clusvg6_6-lv6_6
+                      8.0T  5.4T  2.7T  68% /DCCMA06_Disk6
+/dev/mapper/clusvg6_7-lv6_7
+                      8.0T  5.9T  2.2T  73% /DCCMA06_Disk7
+/dev/mapper/clusvg6_8-lv6_8
+                      8.0T  5.4T  2.7T  67% /DCCMA06_Disk8
+/dev/mapper/clusvg7_1-lv7_1
+                      8.0T  6.6T  1.5T  82% /DCCMA07_Disk1
+/dev/mapper/clusvg1_19-lv1_19
+                      4.0T  3.9T  187G  96% /DCCMA01_Disk19
+/dev/mapper/clusvg1_20-lv1_20
+                      4.0T  3.9T  155G  97% /DCCMA01_Disk20
+/dev/mapper/clusvg1_21-lv1_21
+                      4.0T  3.7T  385G  91% /DCCMA01_Disk21
+/dev/mapper/clusvg1_22-lv1_22
+                      1.0T   75G  950G   8% /DCCMA01_Disk22
+/dev/mapper/clusvg1_23-lv1_23
+                      2.0T  2.6G  2.0T   1% /DCCMA01_Disk23
+/dev/mapper/clusvg2_14-lv2_14
+                      4.0T  3.3T  793G  81% /DCCMA02_Disk14
+/dev/mapper/clusvg2_15-lv2_15
+                      4.0T  3.8T  252G  94% /DCCMA02_Disk15
+/dev/mapper/clusvg2_16-lv2_16
+                      1.0T   61G  964G   6% /DCCMA02_Disk16
+/dev/mapper/clusvg2_17-lv2_17
+                      2.0T  2.6G  2.0T   1% /DCCMA02_Disk17
+/dev/mapper/clusvg3_14-lv3_14
+                      4.0T  3.7T  398G  91% /DCCMA03_Disk14
+/dev/mapper/clusvg3_15-lv3_15
+                      4.0T  4.0T  1.8G 100% /DCCMA03_Disk15
+/dev/mapper/clusvg3_16-lv3_16
+                      1.0T  268G  757G  27% /DCCMA03_Disk16
+/dev/mapper/clusvg4_13-lv4_13
+                      4.0T  4.0T   83G  98% /DCCMA04_Disk13
+/dev/mapper/clusvg4_14-lv4_14
+                      4.0T  3.1T  954G  77% /DCCMA04_Disk14
+/dev/mapper/clusvg4_15-lv4_15
+                      1.0T  313G  712G  31% /DCCMA04_Disk15
+/dev/mapper/clusvg4_16-lv4_16
+                      8.0T  2.6G  8.0T   1% /DCCMA04_Disk16
+/dev/mapper/clusvg4_17-lv4_17
+                      8.0T  2.6G  8.0T   1% /DCCMA04_Disk17
+/dev/mapper/clusvg4_18-lv4_18
+                      8.0T  2.6G  8.0T   1% /DCCMA04_Disk18
+/dev/mapper/clusvg4_19-lv4_19
+                      8.0T  2.6G  8.0T   1% /DCCMA04_Disk19
+/dev/mapper/clusvg5_11-lv5_11
+                      4.0T  3.3T  812G  81% /DCCMA05_Disk11
+/dev/mapper/clusvg5_12-lv5_12
+                      1.0T  257G  768G  26% /DCCMA05_Disk12
+/dev/mapper/clusvg5_13-lv5_13
+                      8.0T  2.6G  8.0T   1% /DCCMA05_Disk13
+/dev/mapper/clusvg5_14-lv5_14
+                      8.0T  2.6G  8.0T   1% /DCCMA05_Disk14
+/dev/mapper/clusvg5_15-lv5_15
+                      8.0T  2.6G  8.0T   1% /DCCMA05_Disk15
+/dev/mapper/clusvg5_16-lv5_16
+                      8.0T  2.6G  8.0T   1% /DCCMA05_Disk16
+/dev/mapper/clusvg7_2-lv7_2
+                      8.0T  5.6T  2.5T  69% /DCCMA07_Disk2
+/dev/mapper/clusvg7_3-lv7_3
+                      8.0T  4.1T  4.0T  51% /DCCMA07_Disk3
+/dev/mapper/clusvg7_4-lv7_4
+                      8.0T  6.8T  1.3T  85% /DCCMA07_Disk4
+/dev/mapper/clusvg7_5-lv7_5
+                      8.0T  5.2T  2.9T  64% /DCCMA07_Disk5
+/dev/mapper/clusvg7_6-lv7_6
+                      8.0T  4.5T  3.6T  56% /DCCMA07_Disk6
+/dev/mapper/clusvg7_7-lv7_7
+                      8.0T  5.4T  2.7T  68% /DCCMA07_Disk7
+/dev/mapper/clusvg8_1-lv8_1
+                      8.0T  5.8T  2.3T  73% /DCCMA08_Disk1
+/dev/mapper/clusvg8_2-lv8_2
+                      8.0T  5.0T  3.1T  62% /DCCMA08_Disk2
+/dev/mapper/clusvg8_3-lv8_3
+                      8.0T  7.4T  623G  93% /DCCMA08_Disk3
+/dev/mapper/clusvg8_4-lv8_4
+                      8.0T  7.3T  799G  91% /DCCMA08_Disk4
+/dev/mapper/clusvg8_5-lv8_5
+                      8.0T  8.0T   61G 100% /DCCMA08_Disk5
+/dev/mapper/clusvg8_6-lv8_6
+                      8.0T  6.0T  2.1T  75% /DCCMA08_Disk6
+/dev/mapper/clusvg8_7-lv8_7
+                      8.0T  4.2T  3.9T  52% /DCCMA08_Disk7
+/dev/mapper/clusvg8_8-lv8_8
+                      8.0T  5.4T  2.7T  67% /DCCMA08_Disk8
+/dev/mapper/clusvg9_1-lv9_1
+                      8.0T  7.0T  1.1T  88% /DCCMA09_Disk1
+/dev/mapper/clusvg9_2-lv9_2
+                      8.0T  8.0T   97G  99% /DCCMA09_Disk2
+/dev/mapper/clusvg9_3-lv9_3
+                      8.0T  6.5T  1.6T  82% /DCCMA09_Disk3
+/dev/mapper/clusvg9_4-lv9_4
+                      8.0T  7.4T  708G  92% /DCCMA09_Disk4
+/dev/mapper/clusvg9_5-lv9_5
+                      8.0T  6.8T  1.3T  85% /DCCMA09_Disk5
+/dev/mapper/clusvg9_6-lv9_6
+                      8.0T  6.7T  1.4T  83% /DCCMA09_Disk6
+/dev/mapper/clusvg9_7-lv9_7
+                      8.0T  8.0T   71G 100% /DCCMA09_Disk7
+/dev/mapper/clusvg9_8-lv9_8
+                      8.0T  5.1T  3.0T  63% /DCCMA09_Disk8
+/dev/mapper/clusvg10_1-lv10_1
+                      8.0T  4.7T  3.4T  59% /DCCMA10_Disk1
+/dev/mapper/clusvg10_2-lv10_2
+                      8.0T  5.1T  3.0T  64% /DCCMA10_Disk2
+/dev/mapper/clusvg10_3-lv10_3
+                      8.0T  7.6T  424G  95% /DCCMA10_Disk3
+/dev/mapper/clusvg10_4-lv10_4
+                      8.0T  7.8T  258G  97% /DCCMA10_Disk4
+/dev/mapper/clusvg10_5-lv10_5
+                      8.0T  8.0T  4.0G 100% /DCCMA10_Disk5
+/dev/mapper/clusvg10_6-lv10_6
+                      8.0T  4.6T  3.5T  57% /DCCMA10_Disk6
+/dev/mapper/clusvg10_7-lv10_7
+                      8.0T  6.9T  1.2T  86% /DCCMA10_Disk7
+/dev/mapper/clusvg10_8-lv10_8
+                      8.0T  8.0T   84G  99% /DCCMA10_Disk8
+/dev/mapper/clusvg11_1-lv11_1
+                      8.1T  8.0T   46G 100% /DCCMA11_Disk1
+/dev/mapper/clusvg11_2-lv11_2
+                      8.1T  7.9T  124G  99% /DCCMA11_Disk2
+/dev/mapper/clusvg11_3-lv11_3
+                      8.1T  8.1T  2.5G 100% /DCCMA11_Disk3
+/dev/mapper/clusvg11_4-lv11_4
+                      8.1T  7.1T  989G  88% /DCCMA11_Disk4
+/dev/mapper/clusvg11_5-lv11_5
+                      8.1T  4.9T  3.2T  61% /DCCMA11_Disk5
+/dev/mapper/clusvg11_7-lv11_7
+                      8.1T  8.1T  2.2G 100% /DCCMA11_Disk7
+/dev/mapper/clusvg11_8-lv11_8
+                      8.1T  4.6T  3.5T  57% /DCCMA11_Disk8
+/dev/mapper/clusvg11_9-lv11_9
+                      8.1T  7.9T  131G  99% /DCCMA11_Disk9
+/dev/mapper/clusvg11_10-lv11_10
+                      8.1T  7.6T  434G  95% /DCCMA11_Disk10
+/dev/mapper/clusvg11_11-lv11_11
+                      8.1T  6.7T  1.4T  83% /DCCMA11_Disk11
+/dev/mapper/clusvg10_9-lv10_9
+                      8.0T  6.5T  1.6T  81% /DCCMA10_Disk9
+/dev/mapper/clusvg10_10-lv10_10
+                      8.0T  2.6G  8.0T   1% /DCCMA10_Disk10
+/dev/mapper/clusvg10_11-lv10_11
+                      8.0T  2.6G  8.0T   1% /DCCMA10_Disk11
+/dev/mapper/clusvg10_12-lv10_12
+                      8.0T  2.6G  8.0T   1% /DCCMA10_Disk12
+/dev/mapper/clusvg10_13-lv10_13
+                      8.0T  2.6G  8.0T   1% /DCCMA10_Disk13
+/dev/mapper/clusvg10_14-lv10_14
+                      8.0T  2.6G  8.0T   1% /DCCMA10_Disk14
+/dev/mapper/clusvg10_15-lv10_15
+                      8.0T  2.6G  8.0T   1% /DCCMA10_Disk15
+/dev/mapper/clusvg10_16-lv10_16
+                      8.0T  2.6G  8.0T   1% /DCCMA10_Disk16
+/dev/mapper/clusvg11_12-lv11_12
+                      8.0T  5.8T  2.3T  72% /DCCMA11_Disk12
+/dev/mapper/clusvg11_13-lv11_13
+                      8.0T  5.7T  2.4T  71% /DCCMA11_Disk13
+/dev/mapper/clusvg11_14-lv11_14
+                      8.0T  5.6T  2.5T  70% /DCCMA11_Disk14
+/dev/mapper/clusvg11_15-lv11_15
+                      8.0T  6.7T  1.4T  84% /DCCMA11_Disk15
+/dev/mapper/clusvg11_16-lv11_16
+                      8.0T  5.0T  3.1T  62% /DCCMA11_Disk16
+/dev/mapper/clusvg11_17-lv11_17
+                      8.0T  5.5T  2.6T  69% /DCCMA11_Disk17
+/dev/mapper/clusvg11_18-lv11_18
+                      8.0T  4.4T  3.7T  54% /DCCMA11_Disk18
+/dev/mapper/clusvg11_19-lv11_19
+                      8.0T  5.0T  3.1T  62% /DCCMA11_Disk19
+/dev/mapper/clusvg12_1-lv12_1
+                      8.0T  5.6T  2.5T  70% /DCCMA12_Disk1
+/dev/mapper/clusvg12_2-lv12_2
+                      8.0T  4.1T  4.0T  51% /DCCMA12_Disk2
+/dev/mapper/clusvg12_3-lv12_3
+                      8.0T  5.4T  2.7T  67% /DCCMA12_Disk3
+/dev/mapper/clusvg12_4-lv12_4
+                      8.0T  2.6G  8.0T   1% /DCCMA12_Disk4
+/dev/mapper/clusvg12_5-lv12_5
+                      8.0T  2.6G  8.0T   1% /DCCMA12_Disk5
+/dev/mapper/clusvg12_6-lv12_6
+                      8.0T  2.6G  8.0T   1% /DCCMA12_Disk6
+/dev/mapper/clusvg12_7-lv12_7
+                      8.0T  2.6G  8.0T   1% /DCCMA12_Disk7
+/dev/mapper/clusvg12_8-lv12_8
+                      8.0T  2.6G  8.0T   1% /DCCMA12_Disk8
+/dev/mapper/clusvg13_1-lv13_1
+                      8.0T  2.6G  8.0T   1% /DCCMA13_Disk1
+/dev/mapper/clusvg13_2-lv13_2
+                      8.0T  2.6G  8.0T   1% /DCCMA13_Disk2
+/dev/mapper/clusvg13_3-lv13_3
+                      8.0T  2.6G  8.0T   1% /DCCMA13_Disk3
+/dev/mapper/clusvg13_4-lv13_4
+                      8.0T  2.6G  8.0T   1% /DCCMA13_Disk4
+/dev/mapper/clusvg13_5-lv13_5
+                      8.0T  2.6G  8.0T   1% /DCCMA13_Disk5
+/dev/mapper/clusvg13_6-lv13_6
+                      8.0T  2.6G  8.0T   1% /DCCMA13_Disk6
+/dev/mapper/clusvg13_7-lv13_7
+                      8.0T  2.6G  8.0T   1% /DCCMA13_Disk7
+/dev/mapper/clusvg13_8-lv13_8
+                      8.0T  2.6G  8.0T   1% /DCCMA13_Disk8
+/dev/mapper/clusvg11_20-lv11_20
+                      8.0T  7.8T  298G  97% /DCCMA11_Disk20
+/dev/mapper/clusvg11_21-lv11_21
+                      8.0T  7.7T  349G  96% /DCCMA11_Disk21
+/dev/mapper/clusvg12_9-lv12_9
+                      8.0T  7.8T  292G  97% /DCCMA12_Disk9
+/dev/mapper/clusvg12_10-lv12_10
+                      8.0T  6.6T  1.5T  82% /DCCMA12_Disk10
+/dev/mapper/clusvg12_11-lv12_11
+                      8.0T  5.0T  3.1T  62% /DCCMA12_Disk11
+/dev/mapper/clusvg12_12-lv12_12
+                      8.0T  6.2T  1.9T  78% /DCCMA12_Disk12
+/dev/mapper/clusvg12_13-lv12_13
+                      8.0T  5.7T  2.4T  71% /DCCMA12_Disk13
+/dev/mapper/clusvg12_15-lv12_15
+                      8.0T  5.1T  3.0T  64% /DCCMA12_Disk15
+/dev/mapper/clusvg12_16-lv12_16
+                      8.0T  6.8T  1.3T  85% /DCCMA12_Disk16
+/dev/mapper/clusvg12_17-lv12_17
+                      8.0T  6.3T  1.8T  78% /DCCMA12_Disk17
+/dev/mapper/clusvg12_18-lv12_18
+                      8.0T  8.0T  2.6G 100% /DCCMA12_Disk18
+/dev/mapper/clusvg13_14-lv13_14
+                      8.0T  6.5T  1.6T  81% /DCCMA13_Disk14
+/dev/mapper/clusvg13_15-lv13_15
+                      8.0T  6.9T  1.2T  86% /DCCMA13_Disk15
+/dev/mapper/clusvg13_16-lv13_16
+                      8.0T  6.0T  2.1T  75% /DCCMA13_Disk16
+/dev/mapper/clusvg13_17-lv13_17
+                      8.0T  5.6T  2.5T  70% /DCCMA13_Disk17
+/dev/mapper/clusvg13_18-lv13_18
+                      8.0T  5.4T  2.7T  67% /DCCMA13_Disk18
+/dev/mapper/clusvg06_09-lv06_09
+                      8.0T  7.4T  709G  92% /DCCMA06_Disk09
+/dev/mapper/clusvg06_10-lv06_10
+                      8.0T  8.0T   51G 100% /DCCMA06_Disk10
+/dev/mapper/clusvg06_11-lv06_11
+                      8.0T  7.8T  268G  97% /DCCMA06_Disk11
+/dev/mapper/clusvg06_12-lv06_12
+                      8.0T  6.0T  2.1T  75% /DCCMA06_Disk12
+/dev/mapper/clusvg06_14-lv06_14
+                      8.0T  7.5T  537G  94% /DCCMA06_Disk14
+/dev/mapper/clusvg06_15-lv06_15
+                      8.0T  5.3T  2.8T  67% /DCCMA06_Disk15
+/dev/mapper/clusvg12_14-lv12_14
+                      8.0T  2.6G  8.0T   1% /DCCMA12_Disk14
+/dev/mapper/clusvg7_9-lv7_9
+                      4.0T  1.4T  2.7T  35% /DCCMA07_Disk9
+/dev/mapper/clusvg9_10-lv9_10
+                      8.0T  2.9T  5.2T  36% /DCCMA09_Disk10
+/dev/mapper/clusvg9_11-lv9_11
+                      8.0T  1.5T  6.6T  18% /DCCMA09_Disk11
+/dev/mapper/clusvg9_12-lv9_12
+                      8.0T  8.0T  3.5G 100% /DCCMA09_Disk12
+/dev/mapper/clusvg9_13-lv9_13
+                      8.0T   97G  8.0T   2% /DCCMA09_Disk13
+/dev/mapper/clusvg9_9-lv9_9
+                      8.0T  156G  7.9T   2% /DCCMA09_Disk09
+/dev/mapper/vg02-DDBSnap_3187622139
+                      1.5T 1016G  387G  73% /opt/simpana/commvault/iDataAgent64/jobResults/2/4274/DDB_SNAPSHOTS/DDBSnap_3187622139
+
+
+Galaxy         	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+Jarvis         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+NetworkManager 	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+abrt-ccpp      	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+abrtd          	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+acpid          	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+atd            	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+auditd         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+autofs         	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+blk-availability	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+bluetooth      	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+cba8           	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+certmonger     	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+cgconfig       	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+cgred          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+clvmd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+cman           	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+corosync       	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+cpglockd       	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+cpuspeed       	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+crond          	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+cups           	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+dataeng        	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+dnsmasq        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+ds_agent       	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+dsm_om_shrsvc  	0:off	1:off	2:off	3:on	4:off	5:on	6:off
+firstboot      	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+gfs2           	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+goferd         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+haldaemon      	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+htcacheclean   	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+httpd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+ip6tables      	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+ipmievd        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+iptables       	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+irqbalance     	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+kdump          	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+libvirt-guests 	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+lvm2-monitor   	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+mdmonitor      	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+messagebus     	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+modclusterd    	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+multipathd     	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_listener  	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ncpa_passive   	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+netconsole     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+netfs          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+network        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+nfs            	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+nfs-rdma       	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+nfslock        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+nntgen7agent   	0:off	1:off	2:on	3:on	4:off	5:on	6:off
+ntpd           	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+ntpdate        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+oddjobd        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+portreserve    	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+postfix        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+pppoe-server   	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+psacct         	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+puppet         	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+pxp-agent      	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+quota_nld      	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rdisc          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rdma           	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+restorecond    	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rgmanager      	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rhnsd          	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rhsmcertd      	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+ricci          	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+rngd           	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rpcbind        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+rpcgssd        	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+rpcsvcgssd     	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+rsyslog        	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+saslauthd      	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+smartd         	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+snmpd          	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+snmptrapd      	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+spice-vdagentd 	0:off	1:off	2:off	3:off	4:off	5:on	6:off
+sshd           	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+sssd           	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+sysstat        	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+udev-post      	0:off	1:on	2:on	3:on	4:on	5:on	6:off
+wdaemon        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+winbind        	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+wpa_supplicant 	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+xagt           	0:off	1:off	2:on	3:on	4:on	5:on	6:off
+xinetd         	0:off	1:off	2:off	3:on	4:on	5:on	6:off
+ypbind         	0:off	1:off	2:off	3:off	4:off	5:off	6:off
+
+xinetd based services:
+	chargen-dgram: 	off
+	chargen-stream:	off
+	daytime-dgram: 	off
+	daytime-stream:	off
+	discard-dgram: 	off
+	discard-stream:	off
+	echo-dgram:    	off
+	echo-stream:   	off
+	nrpe:          	on
+	nsca:          	on
+	pds2:          	on
+	rsync:         	off
+	tcpmux-server: 	off
+	time-dgram:    	off
+	time-stream:   	off
+
+
